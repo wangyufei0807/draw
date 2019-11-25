@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-25T08:44:47.095Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="dwH2395rCo8a-4UQyl7I" version="12.2.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-25T09:11:09.624Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="GH3I6W5SH__DNrBuzLrn" version="12.2.9" type="github" pages="1">
   <diagram id="130WKjdTwqU9Hsnkw1hB" name="Page-1">
-    <mxGraphModel dx="932" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="932" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -102,6 +102,9 @@
         </mxCell>
         <mxCell id="kDa3zQPtUkxCUOgXR0Jn-39" value="websocket客户端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="449" y="722" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="kDa3zQPtUkxCUOgXR0Jn-41" value="优化：&lt;br&gt;1、监控机器人定位信息的状态，目前是由监控客户端实时上报坐标信息，然后由上层监控程序再进行判断处理，该方式传递数据量大，当站点不断增多时，对上层监控程序并发处理能力有很大的考验，考虑该传输方式是否可以由高频传输转换为低频传输，通过主站监控程序在本地判断定位状态之后再进行传输，这样可以减少网络流量、减轻服务器端的并发处理压力并且可以提高服务器端处理能力。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;horizontal=1;spacingTop=4;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="110" y="860" width="600" height="140" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
