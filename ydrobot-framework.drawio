@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-18T07:09:19.468Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="KinRMCXhmtyYqqXXY5_5" version="12.7.1" type="github">
+<mxfile host="www.draw.io" modified="2020-02-18T07:09:39.806Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="twX3x5i4FR3e35K5sH-3" version="12.7.1" type="github">
   <diagram id="OfShJ47jD2onA6x1eoML" name="第 1 页">
     <mxGraphModel dx="932" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,6 +60,11 @@
         </mxCell>
         <mxCell id="4lL5aOliDO6InL_pvJHm-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="4lL5aOliDO6InL_pvJHm-3" target="4lL5aOliDO6InL_pvJHm-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4lL5aOliDO6InL_pvJHm-52" value="消息订阅/发布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="4lL5aOliDO6InL_pvJHm-22">
+          <mxGeometry x="0.1571" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4lL5aOliDO6InL_pvJHm-3" value="Ros服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="719.5" y="1090.5" width="80" height="40" as="geometry" />
