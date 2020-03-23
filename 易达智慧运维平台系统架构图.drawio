@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T08:42:01.031Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="FQmsmNJp_9JDA7mBur2X" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T08:42:39.969Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="-ggzSmFIE5FGEMvRp-Ts" version="12.8.8" type="github">
   <diagram id="8v0LD2bgcwBOzAS1qzz7" name="Page-1">
     <mxGraphModel dx="946" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,6 +84,14 @@
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-24" value="数据仓库" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
           <mxGeometry x="644" y="700" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jj_E-03qJ9KA_C6J2k_F-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endSize=10;targetPerimeterSpacing=0;" edge="1" parent="1" source="jj_E-03qJ9KA_C6J2k_F-25" target="jj_E-03qJ9KA_C6J2k_F-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj_E-03qJ9KA_C6J2k_F-37" value="数据回收" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="jj_E-03qJ9KA_C6J2k_F-36">
+          <mxGeometry x="0.0154" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="330" width="400" height="160" as="geometry" />
         </mxCell>
@@ -95,6 +103,18 @@
         </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-28" value="数据仓库" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
           <mxGeometry x="430" y="380" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jj_E-03qJ9KA_C6J2k_F-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="400" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jj_E-03qJ9KA_C6J2k_F-33" value="智能运维管控中心(省级)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="199" y="40" width="151" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jj_E-03qJ9KA_C6J2k_F-34" value="站端服务器" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_Tower_128x128.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="90" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jj_E-03qJ9KA_C6J2k_F-35" value="数据仓库" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="430" y="90" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
