@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-24T02:51:45.817Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="TF4ZM8s3m8RPS9oVpzJi" version="12.8.8" type="github">
+<mxfile host="www.draw.io" modified="2020-03-24T03:03:20.211Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="y2tFYMjAJbi48V9fQRjm" version="12.8.8" type="github">
   <diagram id="8v0LD2bgcwBOzAS1qzz7" name="Page-1">
     <mxGraphModel dx="1096" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -30,7 +30,7 @@
           <mxGeometry x="40" y="40" width="840" height="1070" as="geometry" />
         </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="780" width="760" height="280" as="geometry" />
+          <mxGeometry x="80" y="780" width="760" height="290" as="geometry" />
         </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endSize=10;targetPerimeterSpacing=0;" parent="1" source="jj_E-03qJ9KA_C6J2k_F-2" target="jj_E-03qJ9KA_C6J2k_F-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="800" width="340" height="240" as="geometry" />
+          <mxGeometry x="100" y="800" width="340" height="250" as="geometry" />
         </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-30" value="站点数据回收" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endSize=10;targetPerimeterSpacing=0;" parent="1" source="jj_E-03qJ9KA_C6J2k_F-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="800" width="340" height="240" as="geometry" />
+          <mxGeometry x="480" y="800" width="340" height="250" as="geometry" />
         </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-4" value="变电站1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="800" width="50" height="20" as="geometry" />
@@ -57,22 +57,17 @@
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-5" value="变电站2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="800" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jj_E-03qJ9KA_C6J2k_F-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.401;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;endSize=10;targetPerimeterSpacing=0;" parent="1" source="jj_E-03qJ9KA_C6J2k_F-6" target="jj_E-03qJ9KA_C6J2k_F-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jj_E-03qJ9KA_C6J2k_F-6" value="巡检机器人" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/walle/128/basket_full.png;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="176" y="950" width="58" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="jj_E-03qJ9KA_C6J2k_F-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.645;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;endSize=10;targetPerimeterSpacing=0;" parent="1" source="jj_E-03qJ9KA_C6J2k_F-7" target="jj_E-03qJ9KA_C6J2k_F-10" edge="1">
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.467;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jj_E-03qJ9KA_C6J2k_F-7" target="jj_E-03qJ9KA_C6J2k_F-10">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="920" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="335" y="930" />
-              <mxPoint x="306" y="930" />
+              <mxPoint x="301" y="930" />
+              <mxPoint x="256" y="930" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-7" value="巡检机器人" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/walle/128/basket_full.png;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="306" y="950" width="58" height="58" as="geometry" />
+          <mxGeometry x="267" y="940" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-10" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="124" y="905" width="282" height="10" as="geometry" />
@@ -82,32 +77,6 @@
         </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-17" value="数据仓库" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Database_128x128.png" parent="1" vertex="1">
           <mxGeometry x="306" y="820" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jj_E-03qJ9KA_C6J2k_F-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.401;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;endSize=10;targetPerimeterSpacing=0;" parent="1" source="jj_E-03qJ9KA_C6J2k_F-19" target="jj_E-03qJ9KA_C6J2k_F-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jj_E-03qJ9KA_C6J2k_F-19" value="巡检机器人" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/walle/128/basket_full.png;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="950" width="58" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="jj_E-03qJ9KA_C6J2k_F-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.645;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;endSize=10;targetPerimeterSpacing=0;" parent="1" source="jj_E-03qJ9KA_C6J2k_F-21" target="jj_E-03qJ9KA_C6J2k_F-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="719" y="930" />
-              <mxPoint x="690" y="930" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jj_E-03qJ9KA_C6J2k_F-21" value="巡检机器人" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/walle/128/basket_full.png;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="950" width="58" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="jj_E-03qJ9KA_C6J2k_F-22" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="508" y="905" width="282" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="jj_E-03qJ9KA_C6J2k_F-23" value="站端服务器" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_Tower_128x128.png;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="820" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jj_E-03qJ9KA_C6J2k_F-24" value="数据仓库" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Database_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="690" y="820" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endSize=10;targetPerimeterSpacing=0;" parent="1" source="jj_E-03qJ9KA_C6J2k_F-25" target="jj_E-03qJ9KA_C6J2k_F-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -189,6 +158,85 @@
             <mxPoint x="879" y="453" as="sourcePoint" />
             <mxPoint x="950" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="925" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-2" value="可见光视频" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" vertex="1" parent="dI5MpI2IVKl0xZMomYiq-4">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="964" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-7" value="红外视频" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" vertex="1" parent="dI5MpI2IVKl0xZMomYiq-6">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="1003" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-10" value="三维点云" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" vertex="1" parent="dI5MpI2IVKl0xZMomYiq-9">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dI5MpI2IVKl0xZMomYiq-12" target="jj_E-03qJ9KA_C6J2k_F-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="372" y="930" />
+              <mxPoint x="336" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-12" value="巡检机器人" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/walle/128/basket_full.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="940" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.467;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dI5MpI2IVKl0xZMomYiq-15" target="dI5MpI2IVKl0xZMomYiq-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="686" y="930" />
+              <mxPoint x="641" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-15" value="巡检机器人" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/walle/128/basket_full.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="652" y="940" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-16" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="509" y="905" width="282" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-17" value="站端服务器" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_Tower_128x128.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="571" y="820" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-18" value="数据仓库" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="691" y="820" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="525" y="925" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-20" value="可见光视频" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" vertex="1" parent="dI5MpI2IVKl0xZMomYiq-19">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="525" y="964" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-22" value="红外视频" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" vertex="1" parent="dI5MpI2IVKl0xZMomYiq-21">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="525" y="1003" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-24" value="三维点云" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" vertex="1" parent="dI5MpI2IVKl0xZMomYiq-23">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dI5MpI2IVKl0xZMomYiq-26" target="dI5MpI2IVKl0xZMomYiq-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="757" y="930" />
+              <mxPoint x="721" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-26" value="巡检机器人" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/walle/128/basket_full.png;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="723" y="940" width="68" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
