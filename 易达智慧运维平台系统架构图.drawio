@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-24T03:04:14.295Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="4SzXLeEr2jzxFX6pZe0Y" version="12.8.8" type="github">
+<mxfile host="www.draw.io" modified="2020-03-24T03:05:59.334Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="3qWnen-Vpmi3gT_G-_lr" version="12.8.8" type="github">
   <diagram id="8v0LD2bgcwBOzAS1qzz7" name="Page-1">
     <mxGraphModel dx="1096" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
             <mxPoint x="446" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dI5MpI2IVKl0xZMomYiq-27" value="http/websocket 通信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="jj_E-03qJ9KA_C6J2k_F-30">
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-27" value="tcp/websocket实时通信&lt;br&gt;及&lt;br&gt;http非实时通信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="jj_E-03qJ9KA_C6J2k_F-30">
           <mxGeometry x="0.7599" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
