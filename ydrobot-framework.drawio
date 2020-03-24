@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-24T05:27:05.791Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="NflKbAfqcpyV6w1wBMPM" version="12.8.8" type="github">
+<mxfile host="www.draw.io" modified="2020-03-24T05:33:54.307Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="2Mat0doQisDUPm5j-IoD" version="12.8.8" type="github">
   <diagram id="OfShJ47jD2onA6x1eoML" name="第 1 页">
-    <mxGraphModel dx="1172" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="777" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
         <mxCell id="4lL5aOliDO6InL_pvJHm-14" value="RosBridge服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1219" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4lL5aOliDO6InL_pvJHm-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.008;entryY=0.685;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;startArrow=block;shape=flexArrow;fillColor=none;" parent="1" source="4lL5aOliDO6InL_pvJHm-21" target="4lL5aOliDO6InL_pvJHm-37" edge="1">
+        <mxCell id="4lL5aOliDO6InL_pvJHm-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.002;exitY=0.596;exitDx=0;exitDy=0;entryX=1.008;entryY=0.685;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;startArrow=block;shape=flexArrow;fillColor=none;exitPerimeter=0;" parent="1" source="4lL5aOliDO6InL_pvJHm-21" target="4lL5aOliDO6InL_pvJHm-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="894.29" as="sourcePoint" />
             <mxPoint x="490" y="901.71" as="targetPoint" />
@@ -106,22 +106,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lL5aOliDO6InL_pvJHm-28" value="HTTP/WEB SERVICE协议" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="4lL5aOliDO6InL_pvJHm-27" vertex="1" connectable="0">
+        <mxCell id="4lL5aOliDO6InL_pvJHm-28" value="HTTP协议" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="4lL5aOliDO6InL_pvJHm-27" vertex="1" connectable="0">
           <mxGeometry x="-0.6194" y="-1" relative="1" as="geometry">
-            <mxPoint x="-74" y="-2" as="offset" />
+            <mxPoint x="-79.17" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4lL5aOliDO6InL_pvJHm-26" value="第三方PMS系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="750" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4lL5aOliDO6InL_pvJHm-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="730" width="120" height="230" as="geometry" />
+          <mxGeometry x="370" y="760" width="120" height="270" as="geometry" />
         </mxCell>
         <mxCell id="dGZBTP9v3vF6LHqFwYMW-23" value="mysql数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="400" y="748" width="60" height="80" as="geometry" />
+          <mxGeometry x="400" y="820" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4lL5aOliDO6InL_pvJHm-17" value="nosql数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="400" y="858" width="60" height="80" as="geometry" />
+          <mxGeometry x="400" y="930" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4lL5aOliDO6InL_pvJHm-42" value="RTSP视频流" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1160" width="90" height="40" as="geometry" />
@@ -138,9 +138,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4lL5aOliDO6InL_pvJHm-44" value="RTSP转WebRTC服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="370" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jXqduaUId4YfjK-P98Zr-1" value="电站其他红外和可见光摄像头报警检测服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="jXqduaUId4YfjK-P98Zr-1" value="电站摄像头报警检测服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="620" y="960" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jXqduaUId4YfjK-P98Zr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.922;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jXqduaUId4YfjK-P98Zr-2" target="4lL5aOliDO6InL_pvJHm-21">
@@ -155,10 +155,19 @@
           <mxGeometry x="840" y="1130" width="110" height="150" as="geometry" />
         </mxCell>
         <mxCell id="jXqduaUId4YfjK-P98Zr-5" value="可见光摄像头" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Ip_Camera_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="871" y="1142" width="28" height="28" as="geometry" />
+          <mxGeometry x="871" y="1159" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="jXqduaUId4YfjK-P98Zr-6" value="红外摄像头" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/POE_DVS_Camera.svg;" vertex="1" parent="1">
-          <mxGeometry x="865.97" y="1211" width="38.06" height="30" as="geometry" />
+          <mxGeometry x="865.97" y="1219" width="38.06" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jXqduaUId4YfjK-P98Zr-7" value="机器人端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353" y="1130" width="67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jXqduaUId4YfjK-P98Zr-8" value="电厂摄像头" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="844.03" y="1130" width="67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jXqduaUId4YfjK-P98Zr-9" value="数据仓库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="760" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
