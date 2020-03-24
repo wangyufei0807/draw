@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-24T03:03:41.441Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="Cp1fht-0XH0RtuGIvUUq" version="12.8.8" type="github">
+<mxfile host="www.draw.io" modified="2020-03-24T03:04:14.295Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="4SzXLeEr2jzxFX6pZe0Y" version="12.8.8" type="github">
   <diagram id="8v0LD2bgcwBOzAS1qzz7" name="Page-1">
     <mxGraphModel dx="1096" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -46,6 +46,11 @@
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-30" value="站点数据回收" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endSize=10;targetPerimeterSpacing=0;" parent="1" source="jj_E-03qJ9KA_C6J2k_F-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="446" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-27" value="http/websocket 通信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="jj_E-03qJ9KA_C6J2k_F-30">
+          <mxGeometry x="0.7599" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
