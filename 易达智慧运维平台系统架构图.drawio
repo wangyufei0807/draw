@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-24T02:37:18.298Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="zTECyAXioJXY29_ApkoD" version="12.8.8" type="github">
+<mxfile host="www.draw.io" modified="2020-03-24T02:45:34.634Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="SOx0PTgYfyQvS73zWFtS" version="12.8.8" type="github">
   <diagram id="8v0LD2bgcwBOzAS1qzz7" name="Page-1">
     <mxGraphModel dx="1096" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-26" value="智能运维管控中心(地市级)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="245" y="450" width="151" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jj_E-03qJ9KA_C6J2k_F-27" value="站端服务器" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_Tower_128x128.png;dashed=1;" parent="1" vertex="1">
+        <mxCell id="jj_E-03qJ9KA_C6J2k_F-27" value="市级站端服务器" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_Tower_128x128.png;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="356" y="500" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-28" value="数据仓库" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Database_128x128.png" parent="1" vertex="1">
@@ -148,7 +148,7 @@
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-33" value="智能运维管控中心(省级)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="245" y="160" width="151" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jj_E-03qJ9KA_C6J2k_F-34" value="站端服务器" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_Tower_128x128.png;dashed=1;" parent="1" vertex="1">
+        <mxCell id="jj_E-03qJ9KA_C6J2k_F-34" value="省级站端服务器" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_Tower_128x128.png;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="356" y="210" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-35" value="数据仓库" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Database_128x128.png" parent="1" vertex="1">
