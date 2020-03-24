@@ -1,29 +1,28 @@
-<mxfile host="www.draw.io" modified="2020-03-24T03:05:59.334Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="3qWnen-Vpmi3gT_G-_lr" version="12.8.8" type="github">
+<mxfile host="www.draw.io" modified="2020-03-24T03:10:55.074Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="yhLOFPhcoQwswB9vCRTQ" version="12.8.8" type="github">
   <diagram id="8v0LD2bgcwBOzAS1qzz7" name="Page-1">
     <mxGraphModel dx="1096" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jj_E-03qJ9KA_C6J2k_F-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.514;exitDx=0;exitDy=0;entryX=-0.031;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;endSize=10;targetPerimeterSpacing=0;fontSize=24;fontColor=#FF3333;exitPerimeter=0;" parent="1" source="jj_E-03qJ9KA_C6J2k_F-38" target="jj_E-03qJ9KA_C6J2k_F-40" edge="1">
+        <mxCell id="jj_E-03qJ9KA_C6J2k_F-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.001;exitY=0.435;exitDx=0;exitDy=0;endSize=10;targetPerimeterSpacing=0;fontSize=24;fontColor=#FF3333;exitPerimeter=0;entryX=0.003;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="jj_E-03qJ9KA_C6J2k_F-38" target="jj_E-03qJ9KA_C6J2k_F-40" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="880" y="580" />
-            </Array>
+            <mxPoint x="1035" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-47" value="web service接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=12;fontColor=#000000;" parent="jj_E-03qJ9KA_C6J2k_F-46" vertex="1" connectable="0">
           <mxGeometry x="0.0523" y="-1" relative="1" as="geometry">
-            <mxPoint y="-1.23" as="offset" />
+            <mxPoint x="-0.6099999999999999" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jj_E-03qJ9KA_C6J2k_F-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.137;entryDx=0;entryDy=0;entryPerimeter=0;endSize=10;targetPerimeterSpacing=0;fontSize=12;fontColor=#000000;" parent="1" target="jj_E-03qJ9KA_C6J2k_F-40" edge="1">
+        <mxCell id="jj_E-03qJ9KA_C6J2k_F-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.311;entryDx=0;entryDy=0;entryPerimeter=0;endSize=10;targetPerimeterSpacing=0;fontSize=12;fontColor=#000000;exitX=0.999;exitY=0.335;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="jj_E-03qJ9KA_C6J2k_F-38" target="jj_E-03qJ9KA_C6J2k_F-40" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="310" as="sourcePoint" />
+            <mxPoint x="880.94" y="380.13" as="sourcePoint" />
+            <mxPoint x="1039.02" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-49" value="tcp/websocket实时消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=12;fontColor=#000000;" parent="jj_E-03qJ9KA_C6J2k_F-48" vertex="1" connectable="0">
           <mxGeometry x="0.0249" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jj_E-03qJ9KA_C6J2k_F-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -242,6 +241,9 @@
         </mxCell>
         <mxCell id="dI5MpI2IVKl0xZMomYiq-26" value="巡检机器人" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/walle/128/basket_full.png;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="723" y="940" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="dI5MpI2IVKl0xZMomYiq-28" value="具体通讯机制需要看第三方系统支持协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="300" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
