@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-25T06:49:08.562Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="o7Wtuc2MYpd17h86Cs36" version="12.8.8" type="github">
+<mxfile host="www.draw.io" modified="2020-03-25T06:50:01.028Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="zl0ZQr_vPlsTlEW-oJ0j" version="12.8.8" type="github">
   <diagram id="68AKn7hBrkc6Hizn51Uo" name="第 1 页">
-    <mxGraphModel dx="1864" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2354" pageHeight="1336" math="0" shadow="0">
+    <mxGraphModel dx="2663" dy="1451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2354" pageHeight="1336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,13 +200,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wY_InP9v4MQlX6HiAcbp-93" value="变电站A-&amp;gt;机器人" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/walle/128/basket_full.png;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1112" y="69" width="100" height="100" as="geometry" />
+          <mxGeometry x="1107.5" y="104" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wY_InP9v4MQlX6HiAcbp-94" value="变电站B-&amp;gt;机器人" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/walle/128/basket_full.png;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1311" y="69" width="100" height="100" as="geometry" />
+          <mxGeometry x="1300" y="89" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wY_InP9v4MQlX6HiAcbp-95" value="变电站C-&amp;gt;机器人" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/walle/128/basket_full.png;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="69" width="100" height="100" as="geometry" />
+          <mxGeometry x="1501.5" y="104" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wY_InP9v4MQlX6HiAcbp-96" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=0.77;exitY=0.069;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wY_InP9v4MQlX6HiAcbp-68" target="wY_InP9v4MQlX6HiAcbp-95">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -329,7 +329,7 @@
           <mxGeometry x="1990.8" y="311.06999999999994" width="37.2" height="35.4" as="geometry" />
         </mxCell>
         <mxCell id="wY_InP9v4MQlX6HiAcbp-135" value="电厂运维人员A" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2130" y="779" width="30" height="60" as="geometry" />
+          <mxGeometry x="2110" y="779" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wY_InP9v4MQlX6HiAcbp-136" value="电厂运维人员B" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2130" y="913.5" width="30" height="60" as="geometry" />
