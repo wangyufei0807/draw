@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-25T03:38:22.466Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="m1n3IDMd9cowIjKQW5Rc" version="12.8.8" type="github">
+<mxfile host="www.draw.io" modified="2020-03-25T03:41:44.722Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="30-Sozhux3_Zbu9Bitaj" version="12.8.8" type="github">
   <diagram id="68AKn7hBrkc6Hizn51Uo" name="第 1 页">
     <mxGraphModel dx="932" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,11 +34,8 @@
         <mxCell id="wY_InP9v4MQlX6HiAcbp-10" value="PC" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#f5f5f5;strokeColor=#666666;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="93" y="75" width="78.57" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="wY_InP9v4MQlX6HiAcbp-11" value="平板" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/pinpoint-interface-ii/48/device-tablet-128.png;imageBackground=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="201" y="69" width="60.5" height="60.5" as="geometry" />
-        </mxCell>
         <mxCell id="wY_InP9v4MQlX6HiAcbp-13" value="手机" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;" vertex="1" parent="1">
-          <mxGeometry x="293" y="70" width="41.48" height="61" as="geometry" />
+          <mxGeometry x="291" y="70" width="40.8" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wY_InP9v4MQlX6HiAcbp-15" value="其它" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_hub;fillColor=#AD688A;gradientColor=#F58435;gradientDirection=west;pointerEvents=1" vertex="1" parent="1">
           <mxGeometry x="366" y="69" width="56.48" height="61" as="geometry" />
@@ -51,6 +48,9 @@
         </mxCell>
         <mxCell id="wY_InP9v4MQlX6HiAcbp-18" value="接口层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="84" y="200" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wY_InP9v4MQlX6HiAcbp-19" value="PAD" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/streamline-icon-set-free-pack/48/Streamline-12-128.png;strokeWidth=2;fillColor=#1A1A1A;imageBackground=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="202" y="70" width="61" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
