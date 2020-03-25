@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-25T06:50:01.028Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="zl0ZQr_vPlsTlEW-oJ0j" version="12.8.8" type="github">
+<mxfile host="www.draw.io" modified="2020-03-25T06:52:04.547Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="14Shl3plmFdLq6Rc57jh" version="12.8.8" type="github">
   <diagram id="68AKn7hBrkc6Hizn51Uo" name="第 1 页">
-    <mxGraphModel dx="2663" dy="1451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2354" pageHeight="1336" math="0" shadow="0">
+    <mxGraphModel dx="1096" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2354" pageHeight="1336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,6 +357,9 @@
         </mxCell>
         <mxCell id="wY_InP9v4MQlX6HiAcbp-141" value="大数据存储" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;labelBackgroundColor=none;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1432" y="811" width="54" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="wY_InP9v4MQlX6HiAcbp-144" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1052" width="680" height="131" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
