@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-25T06:47:30.565Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="R-TlnjosgnIt6oTHmjlX" version="12.8.8" type="github">
+<mxfile host="www.draw.io" modified="2020-03-25T06:49:08.562Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="o7Wtuc2MYpd17h86Cs36" version="12.8.8" type="github">
   <diagram id="68AKn7hBrkc6Hizn51Uo" name="第 1 页">
     <mxGraphModel dx="1864" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2354" pageHeight="1336" math="0" shadow="0">
       <root>
@@ -110,16 +110,16 @@
           <mxGeometry x="660" y="889" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wY_InP9v4MQlX6HiAcbp-64" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="659" width="320" height="193" as="geometry" />
+          <mxGeometry x="1340" y="659" width="330" height="251" as="geometry" />
         </mxCell>
         <mxCell id="wY_InP9v4MQlX6HiAcbp-65" value="mysql数据库集群" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;labelBackgroundColor=none;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1385" y="728" width="54" height="72" as="geometry" />
+          <mxGeometry x="1434.5" y="711" width="54" height="72" as="geometry" />
         </mxCell>
         <mxCell id="wY_InP9v4MQlX6HiAcbp-66" value="redis缓存库集群" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;labelBackgroundColor=none;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1475" y="728" width="54" height="72" as="geometry" />
+          <mxGeometry x="1524.5" y="711" width="54" height="72" as="geometry" />
         </mxCell>
         <mxCell id="wY_InP9v4MQlX6HiAcbp-67" value="文件存储库" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=none;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1565" y="729" width="52.8" height="66" as="geometry" />
+          <mxGeometry x="1531.5" y="817" width="50.4" height="63" as="geometry" />
         </mxCell>
         <mxCell id="wY_InP9v4MQlX6HiAcbp-68" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1150" y="303.3699999999999" width="384.5" height="250.38" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry x="532.5" y="889" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wY_InP9v4MQlX6HiAcbp-70" value="数据中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="678" width="50" height="20" as="geometry" />
+          <mxGeometry x="1481" y="678" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wY_InP9v4MQlX6HiAcbp-71" value="机器人服务中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1296" y="317.5" width="91" height="20" as="geometry" />
@@ -354,6 +354,9 @@
             <mxPoint x="1780" y="1039" as="sourcePoint" />
             <mxPoint x="1830" y="989" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wY_InP9v4MQlX6HiAcbp-141" value="大数据存储" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;labelBackgroundColor=none;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1432" y="811" width="54" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
