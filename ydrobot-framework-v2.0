@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-13T02:26:43.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="bWeMUxTdMdPu6DcItWGo" version="12.9.6" type="github">
+<mxfile host="www.draw.io" modified="2020-04-13T02:27:18.081Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="tkl105IvFmgCtFOWWMci" version="12.9.6" type="github">
   <diagram id="916NwMOvrYQGcRbLMAvu" name="第 1 页">
     <mxGraphModel dx="1331" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,10 +86,10 @@
           <mxGeometry x="75" y="450" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rRgwsmWF6u6Y8Zo0VENc-30" value="HTTP接口" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="482.38" y="257" width="117.62" height="40" as="geometry" />
+          <mxGeometry x="567.63" y="257" width="117.62" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rRgwsmWF6u6Y8Zo0VENc-31" value="WEBSOCKET服务" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="270" y="257" width="152" height="40" as="geometry" />
+          <mxGeometry x="355.25" y="257" width="152" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rRgwsmWF6u6Y8Zo0VENc-34" value="权&lt;br&gt;限&lt;br&gt;控&lt;br&gt;制" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="880" y="484" width="93" height="316" as="geometry" />
@@ -230,13 +230,16 @@
           <mxGeometry x="119.75" y="745" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="G7tT2DHuTPW5ONLDNfjS-8" value="WEBSERVICE接口" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="649.75" y="257" width="127" height="40" as="geometry" />
+          <mxGeometry x="735" y="257" width="127" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G7tT2DHuTPW5ONLDNfjS-9" value="其他服务" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="319.49999999999994" y="748" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="G7tT2DHuTPW5ONLDNfjS-10" value="报警统计" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="703.5" y="748" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="G7tT2DHuTPW5ONLDNfjS-12" value="ROS订阅发布服务" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="159.5" y="257" width="152" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
