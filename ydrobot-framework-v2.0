@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-13T02:27:40.498Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="413IOLGeuqwiaspOXR4X" version="12.9.6" type="github">
+<mxfile host="www.draw.io" modified="2020-04-13T02:28:33.792Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="uvKZ1KXamN2SyN2VeBrH" version="12.9.6" type="github">
   <diagram id="916NwMOvrYQGcRbLMAvu" name="第 1 页">
     <mxGraphModel dx="1331" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="rRgwsmWF6u6Y8Zo0VENc-36" value="mysql数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;labelBackgroundColor=none;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="107" y="1007" width="56" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rRgwsmWF6u6Y8Zo0VENc-37" value="文件存储库" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=none;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="rRgwsmWF6u6Y8Zo0VENc-37" value="文件存储库&lt;br&gt;图片/音频/等" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=none;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="910" y="977" width="96" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rRgwsmWF6u6Y8Zo0VENc-38" value="大数据存储库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;labelBackgroundColor=none;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
