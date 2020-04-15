@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-04-15T02:36:00.395Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="WiLsTPVjTSxuruuZZEut" version="12.9.11" type="github">
+<mxfile host="www.draw.io" modified="2020-04-15T02:36:40.031Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="jacBdfF1PK2xanFx1hH9" version="12.9.11" type="github">
   <diagram id="g2saCS9ZN4Dq22sfe7y9" name="第 1 页">
-    <mxGraphModel dx="932" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="2330" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -275,7 +275,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P6RNPHfj09jxccIvvhvF-98" value="定期进行数据同步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="P6RNPHfj09jxccIvvhvF-97" vertex="1" connectable="0">
+        <mxCell id="P6RNPHfj09jxccIvvhvF-98" value="进行数据同步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="P6RNPHfj09jxccIvvhvF-97" vertex="1" connectable="0">
           <mxGeometry x="0.0791" y="6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
