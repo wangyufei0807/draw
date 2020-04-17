@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-04-17T08:41:24.355Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="yqLj-w6ilZDQqBTpJR1l" version="12.9.12" type="github">
+<mxfile host="www.draw.io" modified="2020-04-17T08:44:34.997Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="ZBAe-wT6CvVWqFN0Q7Z8" version="12.9.12" type="github">
   <diagram id="g2saCS9ZN4Dq22sfe7y9" name="第 1 页">
-    <mxGraphModel dx="4660" dy="2540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1553" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,7 +184,7 @@
         <mxCell id="P6RNPHfj09jxccIvvhvF-88" value="界面端" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="474" y="342.25" width="120" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="P6RNPHfj09jxccIvvhvF-89" value="定期数据同步服务" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="P6RNPHfj09jxccIvvhvF-89" value="数据同步服务" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="474" y="400" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="P6RNPHfj09jxccIvvhvF-90" value="mysql" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
