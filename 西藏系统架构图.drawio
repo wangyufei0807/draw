@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-05-08T08:08:18.106Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="5JCunLwy8jZXB1ijdy5N" version="13.0.1" type="github">
+<mxfile host="www.draw.io" modified="2020-05-08T08:10:29.432Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="GK3Sb41vi0lYxzL5zspy" version="13.0.1" type="github">
   <diagram id="0OOSGcVvR7OFmxbcjkcZ" name="第 1 页">
     <mxGraphModel dx="932" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -42,8 +42,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Agbn1S0HxGMe0rHe034Y-31" value="易达云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="Agbn1S0HxGMe0rHe034Y-31" value="&lt;b&gt;易达云&lt;/b&gt;&lt;br&gt;(虚拟巡检/远程调度/安防联控/数据分析等)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="440" width="290" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
