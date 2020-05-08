@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-05-08T09:28:08.781Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="z-5PkfnMFROPvo0bqSBr" version="13.0.1" type="github">
+<mxfile host="www.draw.io" modified="2020-05-08T09:40:46.763Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="oOvvqHW5oswh9ub_MkDv" version="13.0.1" type="github">
   <diagram id="XJ8-2Lu72BTsMdCGSrW2" name="第 1 页">
-    <mxGraphModel dx="1553" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="2330" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,7 +141,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gQ2CgvajjqF3SDFCfg23-50" value="站端数据同步&lt;br&gt;如(任务数据，巡检数据，报警数据)等" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="gQ2CgvajjqF3SDFCfg23-31" target="gQ2CgvajjqF3SDFCfg23-6">
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-50" value="站端数据同步&lt;br&gt;如(任务数据，巡检数据，&lt;br&gt;报警数据，智能配置)等" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="gQ2CgvajjqF3SDFCfg23-31" target="gQ2CgvajjqF3SDFCfg23-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1070" y="1200" />
