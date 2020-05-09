@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-05-09T01:32:51.364Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="eo_bGYNf0EClXRey1TFk" version="13.0.1" type="github">
+<mxfile host="www.draw.io" modified="2020-05-09T01:39:12.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="7qm7Mqp7pwvK8jX0VLP6" version="13.0.1" type="github">
   <diagram id="XJ8-2Lu72BTsMdCGSrW2" name="第 1 页">
-    <mxGraphModel dx="1331" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gQ2CgvajjqF3SDFCfg23-57" value="读/写" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.999;exitY=0.442;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;fontSize=12;exitPerimeter=0;" edge="1" parent="1" source="gQ2CgvajjqF3SDFCfg23-54" target="gQ2CgvajjqF3SDFCfg23-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-57" value="读/写" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.999;exitY=0.442;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;fontSize=12;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.2583" relative="1" as="geometry">
+            <mxPoint x="716.7599999999998" y="1448.14606" as="sourcePoint" />
+            <mxPoint x="822" y="1426.5699999999997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="737" y="1448" />
+              <mxPoint x="737" y="1380" />
+              <mxPoint x="822" y="1380" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gQ2CgvajjqF3SDFCfg23-54" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1256.57" width="240" height="433.43" as="geometry" />
@@ -50,7 +59,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gQ2CgvajjqF3SDFCfg23-46" value="订阅某个站端机器人消息&lt;br&gt;(如红外视频流，可见光视频流，实时报警信息等)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="gQ2CgvajjqF3SDFCfg23-45">
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-46" value="订阅某个站端机器人消息&lt;br&gt;(如红外视频流，可见光视频流，实时报警信息，下发升级消息等)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="gQ2CgvajjqF3SDFCfg23-45">
           <mxGeometry x="0.2539" y="-4" relative="1" as="geometry">
             <mxPoint y="20.71" as="offset" />
           </mxGeometry>
@@ -150,11 +159,21 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gQ2CgvajjqF3SDFCfg23-50" value="站端数据同步&lt;br&gt;如(任务数据，巡检数据，&lt;br&gt;报警数据，智能配置)等" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="gQ2CgvajjqF3SDFCfg23-31" target="gQ2CgvajjqF3SDFCfg23-6">
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-50" value="站端数据同步&lt;br&gt;如(任务数据，巡检数据，&lt;br&gt;报警数据，智能配置)等" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="gQ2CgvajjqF3SDFCfg23-31" target="gQ2CgvajjqF3SDFCfg23-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1070" y="1317" />
-              <mxPoint x="1070" y="590" />
+              <mxPoint x="1070" y="660" />
+              <mxPoint x="945" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-82" value="文件存储读取" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="1" source="gQ2CgvajjqF3SDFCfg23-31" target="gQ2CgvajjqF3SDFCfg23-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="955" y="1390" />
+              <mxPoint x="1070" y="1390" />
+              <mxPoint x="1070" y="1580" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -216,18 +235,26 @@
             <mxPoint y="-69.33" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gQ2CgvajjqF3SDFCfg23-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gQ2CgvajjqF3SDFCfg23-51" target="gQ2CgvajjqF3SDFCfg23-69">
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="gQ2CgvajjqF3SDFCfg23-51" target="gQ2CgvajjqF3SDFCfg23-69">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1170" y="1041.428571428571" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1180" y="1545" />
-              <mxPoint x="1180" y="850" />
+              <mxPoint x="1140" y="1530" />
+              <mxPoint x="1140" y="865" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gQ2CgvajjqF3SDFCfg23-59" value="点云着色数据同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="gQ2CgvajjqF3SDFCfg23-58">
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-59" value="点云着色数据文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="gQ2CgvajjqF3SDFCfg23-58">
           <mxGeometry x="0.3042" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="1" source="gQ2CgvajjqF3SDFCfg23-51" target="gQ2CgvajjqF3SDFCfg23-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-80" value="数据存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="gQ2CgvajjqF3SDFCfg23-79">
+          <mxGeometry x="-0.5312" y="-1" relative="1" as="geometry">
+            <mxPoint x="5.71" y="14.43" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gQ2CgvajjqF3SDFCfg23-51" value="&lt;p style=&quot;line-height: 160%&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;着色服务模块&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -261,8 +288,24 @@
         <mxCell id="gQ2CgvajjqF3SDFCfg23-69" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;文件存储服务&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px ; line-height: 180%&quot;&gt;(图片/音频/升级文件/点云着色数据)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="750" y="820" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gQ2CgvajjqF3SDFCfg23-72" value="&lt;p style=&quot;line-height: 160%&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;升级服务模块&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="1" source="gQ2CgvajjqF3SDFCfg23-72" target="gQ2CgvajjqF3SDFCfg23-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1230" y="1630" />
+              <mxPoint x="1230" y="835" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-77" value="远程拉取升级文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="gQ2CgvajjqF3SDFCfg23-76">
+          <mxGeometry x="0.0672" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-72" value="&lt;p style=&quot;line-height: 160%&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;远程升级服务模块&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="1600" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-78" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;本地文件存储服务&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px ; line-height: 180%&quot;&gt;(图片/音频/升级文件/点云着色数据)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1550" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
