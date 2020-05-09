@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-05-09T02:13:07.054Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="Ha8kiteIGS8kKwT671iU" version="13.0.1" type="github">
+<mxfile host="www.draw.io" modified="2020-05-09T02:14:21.669Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="A6OciJzroUKfyqrw9pDn" version="13.0.1" type="github">
   <diagram id="XJ8-2Lu72BTsMdCGSrW2" name="第 1 页">
-    <mxGraphModel dx="2031" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
             <mxPoint x="-8" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gQ2CgvajjqF3SDFCfg23-15" value="&lt;font style=&quot;font-size: 16px&quot;&gt;点云渲染服务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-15" value="&lt;font style=&quot;font-size: 16px&quot;&gt;点云渲染服务&lt;br&gt;(历史任务点云数据)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="450" y="560" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gQ2CgvajjqF3SDFCfg23-22" value="PMS" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
