@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-05-15T09:40:49.442Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="NBOm-m0VgGQBzYrDjJfV" version="13.1.1" type="github">
+<mxfile host="www.draw.io" modified="2020-05-15T09:45:25.866Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="7PZFddEzdEa33DP6SSO-" version="13.1.1" type="github">
   <diagram id="XJ8-2Lu72BTsMdCGSrW2" name="第 1 页">
     <mxGraphModel dx="1553" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" background="none" math="0" shadow="0">
       <root>
@@ -64,9 +64,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gQ2CgvajjqF3SDFCfg23-46" value="&lt;b&gt;消息订阅/发布&lt;/b&gt;&lt;br&gt;(如:机器人控制，云台控制，任务下发，&lt;br&gt;红外视频流，可见光视频流，&lt;br&gt;巡检结果和报警信息，&lt;br&gt;系统报警信息&lt;br&gt;远程升级，机器人自检，&lt;br&gt;参数同步设置等)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="gQ2CgvajjqF3SDFCfg23-45" vertex="1" connectable="0">
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-46" value="&lt;b&gt;消息订阅/发布&lt;/b&gt;&lt;br&gt;1.机器人控制&lt;br&gt;2.云台控制&lt;br&gt;3.任务下发，&lt;br&gt;4.红外视频流&lt;br&gt;5.可见光视频流，&lt;br&gt;6.巡检结果和报警信息，&lt;br&gt;7.系统报警信息&lt;br&gt;8.远程升级&lt;br&gt;9.机器人自检，&lt;br&gt;10.参数同步设置" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="gQ2CgvajjqF3SDFCfg23-45" vertex="1" connectable="0">
           <mxGeometry x="0.2539" y="-4" relative="1" as="geometry">
-            <mxPoint y="20.71" as="offset" />
+            <mxPoint x="-46" y="20.71" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gQ2CgvajjqF3SDFCfg23-3" value="&lt;p style=&quot;line-height: 170%&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Web应用&lt;/font&gt;&lt;br&gt;根据用户权限不同分配不同访问界面&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -166,7 +166,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gQ2CgvajjqF3SDFCfg23-50" value="&lt;div style=&quot;text-align: left&quot;&gt;站端数据同步&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;1.任务同步&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;2.巡检结果同步&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;3.报警记录同步等&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fontSize=12;endArrow=classic;endFill=1;" parent="1" source="gQ2CgvajjqF3SDFCfg23-31" target="gQ2CgvajjqF3SDFCfg23-6" edge="1">
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-50" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;站端数据同步&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;1.任务同步&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;2.巡检结果同步&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;3.报警记录同步等&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fontSize=12;endArrow=classic;endFill=1;" parent="1" source="gQ2CgvajjqF3SDFCfg23-31" target="gQ2CgvajjqF3SDFCfg23-6" edge="1">
           <mxGeometry x="-0.1223" y="-10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1590" y="1443" />
@@ -264,7 +264,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gQ2CgvajjqF3SDFCfg23-59" value="同步点云着色数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="gQ2CgvajjqF3SDFCfg23-58" vertex="1" connectable="0">
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-59" value="定期同步点云着色数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="gQ2CgvajjqF3SDFCfg23-58" vertex="1" connectable="0">
           <mxGeometry x="0.3042" y="-2" relative="1" as="geometry">
             <mxPoint x="-2" y="-49" as="offset" />
           </mxGeometry>
@@ -359,7 +359,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gQ2CgvajjqF3SDFCfg23-84" value="&lt;div style=&quot;text-align: left&quot;&gt;1.通过WebRTC协议接收&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;三维点云视频流&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;2.通过websocket协议&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;对三维点云进行操作控制&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="gQ2CgvajjqF3SDFCfg23-83" vertex="1" connectable="0">
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-84" value="&lt;div style=&quot;text-align: left&quot;&gt;1.通过WebRTC协议接收&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;三维点云视频流&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;2.通过websocket协议&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;对三维点云进行操作控制&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;如查询历史任务的实时着色，&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;可通过下发任务id给站端着色服务&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;进行拉取着色数据&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="gQ2CgvajjqF3SDFCfg23-83" vertex="1" connectable="0">
           <mxGeometry x="0.1741" y="5" relative="1" as="geometry">
             <mxPoint x="19.18" y="37.94" as="offset" />
           </mxGeometry>
