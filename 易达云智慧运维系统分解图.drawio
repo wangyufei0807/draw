@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-05-15T02:20:49.114Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="heVXFZs4J-aQMz_7aJwZ" version="13.1.1" type="github">
+<mxfile host="www.draw.io" modified="2020-05-15T02:21:10.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="bavScI2cRgb7FHIUjwx8" version="13.1.1" type="github">
   <diagram id="XJ8-2Lu72BTsMdCGSrW2" name="第 1 页">
     <mxGraphModel dx="1553" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" background="none" math="0" shadow="0">
       <root>
@@ -199,7 +199,7 @@
         <mxCell id="gQ2CgvajjqF3SDFCfg23-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startArrow=classic;startFill=1;" parent="1" source="gQ2CgvajjqF3SDFCfg23-40" target="gQ2CgvajjqF3SDFCfg23-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gQ2CgvajjqF3SDFCfg23-43" value="机器人的消息订阅/发布&lt;br&gt;1.机器人控制&lt;br&gt;2.视频数据流&lt;br&gt;3.巡检结果&lt;br&gt;4.参数设置&lt;br&gt;5.云台控制等" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=#ffffff;" parent="gQ2CgvajjqF3SDFCfg23-41" vertex="1" connectable="0">
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-43" value="机器人的消息订阅/发布&lt;br&gt;1.机器人控制&lt;br&gt;2.视频数据流&lt;br&gt;3.巡检结果&lt;br&gt;4.参数设置&lt;br&gt;5.云台控制&lt;br&gt;6.系统状态等" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=#ffffff;" parent="gQ2CgvajjqF3SDFCfg23-41" vertex="1" connectable="0">
           <mxGeometry x="-0.2308" y="-6" relative="1" as="geometry">
             <mxPoint x="-108.33" y="-6" as="offset" />
           </mxGeometry>
