@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-05-15T09:50:45.201Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="qKONTftM6D9gfisyN8i3" version="13.1.1" type="github">
+<mxfile host="www.draw.io" modified="2020-05-15T10:07:09.640Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="8LvG080LsVsgTfWCp-AL" version="13.1.1" type="github">
   <diagram id="XJ8-2Lu72BTsMdCGSrW2" name="第 1 页">
     <mxGraphModel dx="1553" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" background="none" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gQ2CgvajjqF3SDFCfg23-46" value="&lt;b&gt;消息订阅/发布&lt;/b&gt;&lt;br&gt;1.机器人控制&lt;br&gt;2.云台控制&lt;br&gt;3.任务下发，&lt;br&gt;4.红外视频流&lt;br&gt;5.可见光视频流，&lt;br&gt;6.巡检结果和报警信息，&lt;br&gt;7.系统报警信息&lt;br&gt;8.远程升级&lt;br&gt;9.机器人自检，&lt;br&gt;10.参数同步设置" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="gQ2CgvajjqF3SDFCfg23-45" vertex="1" connectable="0">
+        <mxCell id="gQ2CgvajjqF3SDFCfg23-46" value="&lt;b&gt;消息订阅/发布&lt;/b&gt;&lt;br&gt;1.机器人控制&lt;br&gt;2.云台控制&lt;br&gt;3.任务下发&lt;br&gt;4.红外视频流&lt;br&gt;5.可见光视频流&lt;br&gt;6.巡检结果和报警信息&lt;br&gt;7.系统报警信息&lt;br&gt;8.远程升级&lt;br&gt;9.机器人自检&lt;br&gt;10.参数同步设置" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="gQ2CgvajjqF3SDFCfg23-45" vertex="1" connectable="0">
           <mxGeometry x="0.2539" y="-4" relative="1" as="geometry">
             <mxPoint x="-46" y="20.71" as="offset" />
           </mxGeometry>
