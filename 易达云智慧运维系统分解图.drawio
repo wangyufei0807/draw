@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-16T13:01:10.206Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="-2uLE6hHG2BZjD7VoE4E" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-16T13:04:12.425Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="FDDZ80lVVrdcGOqSs48h" version="13.1.2" type="github">
   <diagram id="XJ8-2Lu72BTsMdCGSrW2" name="第 1 页">
     <mxGraphModel dx="1240" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" background="none" math="0" shadow="0">
       <root>
@@ -91,10 +91,11 @@
             <mxPoint y="-39.29" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8aomwwdiP839tngme-EH-2" value="数据同步&lt;br&gt;1.报警数据&lt;br&gt;2.巡检记录&lt;br&gt;3.任务数据等" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1087" y="575" as="sourcePoint" />
-            <mxPoint x="1028.5" y="-200" as="targetPoint" />
+        <mxCell id="8aomwwdiP839tngme-EH-2" value="数据同步&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;运维平台依据数据中台&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;所提供的接口格式进行&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;数据提交，如下：&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;1.报警数据&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;2.巡检记录&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;3.任务数据等&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry x="0.1123" y="8" relative="1" as="geometry">
+            <mxPoint x="1087" y="578" as="sourcePoint" />
+            <mxPoint x="1028.5" y="-197" as="targetPoint" />
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8aomwwdiP839tngme-EH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="gQ2CgvajjqF3SDFCfg23-6" target="8aomwwdiP839tngme-EH-1">
@@ -107,9 +108,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8aomwwdiP839tngme-EH-4" value="数据查询&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;后期第三方系统数据(PMS/D500)等&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;写入到数据中台之后，运维端所需要&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;的一些数据将从数据中台直接获取&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="8aomwwdiP839tngme-EH-3">
+        <mxCell id="8aomwwdiP839tngme-EH-4" value="数据查询&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;后期第三方系统数据(PMS/D500)等&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;相关数据写入到数据中台之后，运维&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;端所需要的数据将从数据中台直接获取&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="8aomwwdiP839tngme-EH-3">
           <mxGeometry x="0.1894" y="-7" relative="1" as="geometry">
-            <mxPoint x="-19.86" y="-38.00000000000001" as="offset" />
+            <mxPoint x="-34.71" y="-78" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gQ2CgvajjqF3SDFCfg23-6" value="&lt;p style=&quot;line-height: 160%&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;API应用&lt;/font&gt;&lt;br&gt;JAVA&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
