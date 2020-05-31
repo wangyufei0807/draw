@@ -1,1 +1,89 @@
-<mxfile host="www.draw.io" modified="2020-05-31T02:08:27.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="ht5_w3v5puQ_KmogFTZd" version="13.1.1" type="github"><diagram id="1ydk9_n0L0ylP9l1Qbfi" name="第 1 页">7Vpbk6I4FP41eZwuwjU8guLuQ8/WbHXVzvQjSlqYRWNhHHV+/eaEICBBnb6Ibk2VZSUnF+Cc8335EkDWaLH7o4hX6WeW0ByZRrJD1hiZpm+Z4h8M+9LgGKQ0zIssKU24NjxlP6kyGsq6yRK6bnXkjOU8W7WNM7Zc0hlv2eKiYNt2txeWt6+6iue0Y3iaxXnX+jVLeFpaPcOo7X/SbJ5WVzaqlkVcdVaGdRonbNswWRGyRgVjvCwtdiOag+8qv5TjJj2thxsr6JJfMmCZsud//jL+/eJ99RZ/W8XyKfn8ySpn+RHnG/XA6mb5vvJAwTbLhMIkBrLCbZpx+rSKZ9C6FSEXtpQvclHDoqimowWnu977xIenF1lD2YLyYi+6qAGmpRymMsZV1W3tfrtyctpwvesoY6xCPj9MXXtFFJRjfsFJdtdJkYd8G/kTFLmIEOQbKLJRSBAxwOKPUYBlU4ACB0UEBcLiyj6TqgmjYNJxNk1E9qkqK3jK5mwZ51FtDdvhqPs8MrZSQfhOOd8rKMUbztohoruMf2uUn2GqB0fVxjs1s6zsq8pS+PFbs9IYBdV6mKxV48rng4c6nQzCB2xTzOiJIKjE5HExp/xEP0efXAXNY579aN+HLlPU0C8sE3d4SErst5MS20fJVt6XGlXnW1AU8b7RbQUd1v3XMY2j6xCnDepz/Y1Wf1Eo76BO/oNPXo8HU4uHYAQ/BQNfwsBFoSg48B9aUCATFFZ0qGMYfB2GOfKZhmGwqWGYDyMYMiQP1Nh/brSc44Ea+s8t5H84DzgX8oD3Rh54U0BN9zezv3tEzbdS+5tC6mhIr7vAExSOJQ2KJlE4paauxHVem+zI0FyHuz75DY2TJHYBNHBPElwHGlizi4BV30Ck1Lwh/GD5DyrxG6GAoMgHvSyEsFAPooMvtYKQDgI5oCfCPoH8GE/FJrMV3zjP5ktRngkX00IYADSZ2MYFqmGRJUmZSnSd/Yyncj6IllJkYnInRM74FOrUHlMNRgcd0YzsiZzvxegn48FwXa+FU+XS18rWqgt7eVlT3onwO4hATysCjzdFIgs8FfPAkrujTjrcGkMepP5wFOncnR7Eg1Ekrk6FznKkPShHuqc40kf+SKKDgIoARuwCR4ArQMTWEarcWPlYR6hEXkJuvsJAShQXqLcc5Y+R7/1PKLZHHKrpjQfsmfatc2qVy40k2dJp/2J4bap0j09B1OnEWap0P4wq/bujyuG2zti+lCrJoFSpO2/tkt4rmG1oaWEZQ0sLc9Dd173hhVyIl740uBJeyEVSXLsP81HgSdWBERnJQgSwAkwJBHV16NAIsvHgCLLvBUHviATzUpFd7lsHO3bt6if5HmIEKwSsCr48drChChYCr+P8sAGAjuy+NQA4lwLgwySXqTvtKd/6BI0jUd0GBvYkloxIBEEx3VzcbDgtRGkOJclNTjU8gM635n/XHNz/upPoLt2XVB6BJwMbEU9/Wn1M93cQEZvc2Im2Oejruzs70TYvPdIe9v2d7nRTyiVyEFBEhyhJeQJUJbSCrlYY+F237mua66LF0q3RnWN/WCPEmuLKJlJxVABG8Lohvd5VtDZ8alCGSHAgiXqW+JH8LsGVFnmJEAP7wdWlNjgO2jqNV1BM2GyzkI4/F7lpGebH6UeevlRZei6W5NdjKar1l2nl8Vb9eZ8V/Qc=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-05-31T02:15:57.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="1BDq3tQvqQhjjPM3-_J3" version="13.1.1" type="github">
+  <diagram id="1ydk9_n0L0ylP9l1Qbfi" name="第 1 页">
+    <mxGraphModel dx="932" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="60" width="400" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-4" value="生成一条报警信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nhoYVN0kP7W7mQ3rnSdM-2" target="nhoYVN0kP7W7mQ3rnSdM-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="185" />
+              <mxPoint x="200" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-2" value="第三方平台" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nhoYVN0kP7W7mQ3rnSdM-5" target="nhoYVN0kP7W7mQ3rnSdM-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nhoYVN0kP7W7mQ3rnSdM-5" target="nhoYVN0kP7W7mQ3rnSdM-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-5" value="报警转换" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="80" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nhoYVN0kP7W7mQ3rnSdM-7" target="nhoYVN0kP7W7mQ3rnSdM-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-13" value="将任务推送给前端" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nhoYVN0kP7W7mQ3rnSdM-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.0667" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-7" value="生成巡检任务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="190" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nhoYVN0kP7W7mQ3rnSdM-11" target="nhoYVN0kP7W7mQ3rnSdM-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-16" value="将需要巡检的任务发送给调度模块" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nhoYVN0kP7W7mQ3rnSdM-15" vertex="1" connectable="0">
+          <mxGeometry x="0.1724" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-11" value="web端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nhoYVN0kP7W7mQ3rnSdM-14" target="nhoYVN0kP7W7mQ3rnSdM-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-14" value="任务调度模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nhoYVN0kP7W7mQ3rnSdM-18" target="nhoYVN0kP7W7mQ3rnSdM-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-18" value="生成任务执行记录" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="400" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="nhoYVN0kP7W7mQ3rnSdM-21" target="nhoYVN0kP7W7mQ3rnSdM-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-21" value="机器人进行巡检" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="510" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-23" value="上报巡检结果&lt;br&gt;入库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="620" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-25" value="生成设备报警记录&lt;br&gt;入库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="80" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nhoYVN0kP7W7mQ3rnSdM-27" target="nhoYVN0kP7W7mQ3rnSdM-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-27" value="手动报警确认" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="260" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nhoYVN0kP7W7mQ3rnSdM-31" value="前端收到应急任务之后进行弹框展示" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="127" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
