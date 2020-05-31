@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-05-31T02:15:57.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="1BDq3tQvqQhjjPM3-_J3" version="13.1.1" type="github">
+<mxfile host="www.draw.io" modified="2020-05-31T02:19:30.761Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="W7qa84zku2Cg1UM-oFZJ" version="13.1.1" type="github">
   <diagram id="1ydk9_n0L0ylP9l1Qbfi" name="第 1 页">
     <mxGraphModel dx="932" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -75,7 +75,12 @@
           <mxGeometry x="480" y="80" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nhoYVN0kP7W7mQ3rnSdM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nhoYVN0kP7W7mQ3rnSdM-27" target="nhoYVN0kP7W7mQ3rnSdM-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="285" />
+              <mxPoint x="200" y="215" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nhoYVN0kP7W7mQ3rnSdM-27" value="手动报警确认" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="260" width="120" height="50" as="geometry" />
