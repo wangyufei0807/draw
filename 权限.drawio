@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T01:22:47.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="jOj25F2ZQlAAt8APoCD7" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T09:30:50.887Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="j8fX9YRwPJIhSQDWov29" version="13.6.5" type="github">
   <diagram id="UGhOaX2AKdgDgqAa2PCW" name="Page-1">
-    <mxGraphModel dx="2377" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,16 +18,11 @@
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9O_hsrOdtYKGC5B46HUJ-107" target="9O_hsrOdtYKGC5B46HUJ-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1440" y="570" as="targetPoint" />
+            <mxPoint x="1420" y="595" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9O_hsrOdtYKGC5B46HUJ-56" target="9O_hsrOdtYKGC5B46HUJ-107">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9O_hsrOdtYKGC5B46HUJ-81">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="518" y="655" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9O_hsrOdtYKGC5B46HUJ-133" target="9O_hsrOdtYKGC5B46HUJ-8">
           <mxGeometry relative="1" as="geometry" />
@@ -45,7 +40,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-146" value="用户和角色关系表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="360" width="180" height="150" as="geometry" />
+          <mxGeometry x="1050" y="385" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-147" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-146">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -84,7 +79,7 @@
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-39" value="角色表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="360" width="180" height="160" as="geometry" />
+          <mxGeometry x="1330" y="385" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-40" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-39">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -122,47 +117,11 @@
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-51" value="..." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-49">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-133" value="用户和变电站关系表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="427" y="505" width="183" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-134" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-133">
-          <mxGeometry y="30" width="183" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-135" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-134">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-136" value="id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-134">
-          <mxGeometry x="30" width="153" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-137" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-133">
-          <mxGeometry y="60" width="183" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-138" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-137">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-139" value="用户id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-137">
-          <mxGeometry x="30" width="153" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-140" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-133">
-          <mxGeometry y="90" width="183" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-141" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-140">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-142" value="变电站id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-140">
-          <mxGeometry x="30" width="153" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-143" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-133">
-          <mxGeometry y="120" width="183" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-144" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-143">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-145" value="..." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-143">
-          <mxGeometry x="30" width="153" height="30" as="geometry" />
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.486;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9O_hsrOdtYKGC5B46HUJ-81" target="9O_hsrOdtYKGC5B46HUJ-143">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-81" value="变电站表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="427" y="750" width="180" height="300" as="geometry" />
+          <mxGeometry x="407" y="775" width="180" height="300" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-82" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-81">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -246,7 +205,7 @@
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-52" value="权限表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="740" width="180" height="220" as="geometry" />
+          <mxGeometry x="1070" y="765" width="180" height="220" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-53" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-52">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -303,7 +262,7 @@
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-107" value="角色和权限关系表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="620" width="180" height="150" as="geometry" />
+          <mxGeometry x="1330" y="645" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-108" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-107">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -342,7 +301,7 @@
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-65" value="集控中心表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="500" width="180" height="180" as="geometry" />
+          <mxGeometry x="70" y="525" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-66" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-65">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -386,50 +345,11 @@
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-226" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-225">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-227" value="..." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-225">
-          <mxGeometry x="30" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-120" value="集控中心和变电站关系表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="750" width="180" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-121" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-120">
-          <mxGeometry y="30" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-122" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-121">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-123" value="id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-121">
-          <mxGeometry x="30" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-124" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-120">
-          <mxGeometry y="60" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-125" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-124">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-126" value="集控中心id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-124">
-          <mxGeometry x="30" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-127" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-120">
-          <mxGeometry y="90" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-128" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-127">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-129" value="变电站id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-127">
-          <mxGeometry x="30" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-130" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-120">
-          <mxGeometry y="120" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-131" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-130">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9O_hsrOdtYKGC5B46HUJ-132" value="..." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-130">
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-227" value="父级id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-225">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-1" value="用户表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="360" width="180" height="280" as="geometry" />
+          <mxGeometry x="740" y="385" width="180" height="280" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -504,7 +424,7 @@
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-172" value="组织结构表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="70" width="180" height="250" as="geometry" />
+          <mxGeometry x="740" y="95" width="180" height="250" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-173" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-172">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -570,7 +490,7 @@
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-94" value="用户和权限关系表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="740" width="180" height="150" as="geometry" />
+          <mxGeometry x="740" y="765" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-95" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-94">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -607,6 +527,84 @@
         </mxCell>
         <mxCell id="9O_hsrOdtYKGC5B46HUJ-106" value="..." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-104">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-120" value="集控中心和变电站关系表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="775" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-121" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-120">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-122" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-121">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-123" value="id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-121">
+          <mxGeometry x="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-124" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-120">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-125" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-124">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-126" value="集控中心id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-124">
+          <mxGeometry x="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-127" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-120">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-128" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-127">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-129" value="变电站id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-127">
+          <mxGeometry x="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-130" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-120">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-131" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-130">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-132" value="..." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-130">
+          <mxGeometry x="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-133" value="用户和变电站关系表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="525" width="183" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-134" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-133">
+          <mxGeometry y="30" width="183" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-135" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-134">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-136" value="id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-134">
+          <mxGeometry x="30" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-137" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-133">
+          <mxGeometry y="60" width="183" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-138" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-137">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-139" value="用户id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-137">
+          <mxGeometry x="30" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-140" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-133">
+          <mxGeometry y="90" width="183" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-141" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-140">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-142" value="变电站id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-140">
+          <mxGeometry x="30" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-143" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-133">
+          <mxGeometry y="120" width="183" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-144" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-143">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O_hsrOdtYKGC5B46HUJ-145" value="..." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="9O_hsrOdtYKGC5B46HUJ-143">
+          <mxGeometry x="30" width="153" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
