@@ -1,14 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T13:37:10.471Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="29Tltm2qVRY-FXMIHxGw" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-21T13:44:24.045Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="G38TCfDW7rKR8ZEwQb6u" version="13.7.9" type="github">
   <diagram id="Hz9SQZm9DBwmcALDKWFs" name="Page-1">
-    <mxGraphModel dx="946" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7Oax_VJaz0vtxvODjcff-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="520" width="450" height="140" as="geometry" />
+          <mxGeometry x="120" y="525" width="660" height="160" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="520" width="280" height="140" as="geometry" />
+          <mxGeometry x="830" y="525" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-3" value="系统数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="485" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-4" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="485" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-5" value="消防系统数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="555" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-6" value="电气火灾检测数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="555" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-7" value="智能巡检系统数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="555" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-8" value="充电桩系统数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="625" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-9" value="光伏发电系统数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="625" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-10" value="储能系统数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="625" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-11" value="局放数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="555" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-12" value="其它数据.." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="625" width="100" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
