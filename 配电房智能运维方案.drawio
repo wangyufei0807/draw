@@ -1,24 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T14:02:57.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="01NRkeg0OvtyCENsbS4P" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-21T14:32:06.879Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="FDz1PqknFNgXTO39cgGj" version="13.7.9" type="github">
   <diagram id="Hz9SQZm9DBwmcALDKWFs" name="Page-1">
-    <mxGraphModel dx="1892" dy="1030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2365" dy="1288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7Oax_VJaz0vtxvODjcff-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="490" width="1100" height="600" as="geometry" />
+          <mxGeometry x="130" y="450" width="1100" height="640" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-27" target="7Oax_VJaz0vtxvODjcff-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-37" value="读写" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Oax_VJaz0vtxvODjcff-36">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-37" value="读/写" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Oax_VJaz0vtxvODjcff-36">
           <mxGeometry x="0.1229" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="880" width="470" height="180" as="geometry" />
+          <mxGeometry x="180" y="880" width="590" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="1300" width="1090" height="160" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-3" value="系统数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -67,13 +67,18 @@
           <mxGeometry x="940" y="1400" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-20" value="前置服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="450" width="120" height="40" as="geometry" />
+          <mxGeometry x="130" y="410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.168;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-21" target="7Oax_VJaz0vtxvODjcff-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-50" value="数据接收" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Oax_VJaz0vtxvODjcff-23">
+          <mxGeometry x="0.0403" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-21" value="Http数据接收服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="207" y="940" width="123" height="60" as="geometry" />
+          <mxGeometry x="250" y="940" width="123" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-22" target="7Oax_VJaz0vtxvODjcff-1">
           <mxGeometry relative="1" as="geometry" />
@@ -84,28 +89,38 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-22" value="Tcp数据接收服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="880" width="420" height="180" as="geometry" />
+          <mxGeometry x="970" y="530" width="200" height="530" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-30" value="存储层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="840" width="120" height="40" as="geometry" />
+          <mxGeometry x="970" y="490" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-31" value="mysql关系数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="780" y="930" width="60" height="80" as="geometry" />
+        <mxCell id="7Oax_VJaz0vtxvODjcff-31" value="mysql关系数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="560" width="110" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-32" value="redis缓存数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="900" y="930" width="60" height="80" as="geometry" />
+        <mxCell id="7Oax_VJaz0vtxvODjcff-32" value="redis缓存数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="750" width="120" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-33" value="资源存储&lt;br&gt;(图片、视频等)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="930" width="120" height="80" as="geometry" />
+        <mxCell id="7Oax_VJaz0vtxvODjcff-33" value="资源存储&lt;br&gt;(图片、视频等)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-35" value="数据接收层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="840" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="560" width="470" height="210" as="geometry" />
+          <mxGeometry x="180" y="560" width="580" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" target="7Oax_VJaz0vtxvODjcff-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="710" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-49" value="读/写" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Oax_VJaz0vtxvODjcff-48">
+          <mxGeometry x="0.0862" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-39" value="Api接口服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="680" width="410" height="60" as="geometry" />
@@ -117,7 +132,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-42" value="流媒体服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="497" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-44" value="运维平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="520" width="150" height="40" as="geometry" />
