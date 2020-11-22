@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T00:45:13.425Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="tr0SX-ETv3t0bN9Zo-sR" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T00:45:34.087Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="VeacpijYg62iltPr2Eil" version="13.7.9" type="github">
   <diagram id="Hz9SQZm9DBwmcALDKWFs" name="Page-1">
     <mxGraphModel dx="3192" dy="1288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
           <mxGeometry x="-490" y="865" width="370" height="210" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-59" value="&lt;h1&gt;前置服务器各模块说明&lt;/h1&gt;&lt;div&gt;1.api接口服务主要负责为前端展示数据做支撑，从数据库中查询相关业务模块的历史记录&lt;/div&gt;&lt;div&gt;2.前端界面主要负责展示，方便用户管理操作。&lt;/div&gt;&lt;div&gt;3.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="1475" width="590" height="385" as="geometry" />
+          <mxGeometry x="-490" y="1227.5" width="590" height="385" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
