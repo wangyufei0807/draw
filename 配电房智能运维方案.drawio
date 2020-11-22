@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T00:56:00.219Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="4TX1o-D53Lqu1Pdb19R0" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T01:00:14.897Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="w85lzxAvkwmNDve0SXVO" version="13.7.9" type="github">
   <diagram id="Hz9SQZm9DBwmcALDKWFs" name="Page-1">
-    <mxGraphModel dx="3192" dy="1288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3192" dy="2457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,6 +179,33 @@
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-61" value="数据定期同步模块" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="490" y="680" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-62" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-600" width="1520" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-63" value="云端服务器" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-660" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="-515" width="200" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-65" value="存储层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="-555" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-66" value="关系数据库集群" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="-485" width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-67" value="缓存数据库集群" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="-295" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-68" value="资源存储&lt;br&gt;(图片、视频等)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="-95" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-69" value="前端展示界面" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-520" width="690" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-70" value="Api接口层" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-270" width="690" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
