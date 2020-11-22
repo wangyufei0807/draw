@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T01:53:19.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="on4naIgrozZ9TZHFtsaD" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T01:54:24.278Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="3nkq6uIRayhASdof8Hb3" version="13.7.9" type="github">
   <diagram id="Hz9SQZm9DBwmcALDKWFs" name="Page-1">
     <mxGraphModel dx="3192" dy="2457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,24 +197,24 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="640" />
-              <mxPoint x="843" y="640" />
-              <mxPoint x="843" y="47" />
+              <mxPoint x="860" y="640" />
+              <mxPoint x="860" y="47" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-89" value="数据同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="7Oax_VJaz0vtxvODjcff-88">
           <mxGeometry x="0.3749" y="-2" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-61" value="数据定期同步模块" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="490" y="680" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-63" value="云端服务器" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-660" width="150" height="60" as="geometry" />
+        <mxCell id="7Oax_VJaz0vtxvODjcff-63" value="云端服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-660" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="-515" width="200" height="530" as="geometry" />
+          <mxGeometry x="1230" y="-515" width="200" height="555" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-65" value="存储层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="-555" width="120" height="40" as="geometry" />
