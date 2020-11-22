@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T01:45:45.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="xV-WfjcIfyZ3jSLsqWI8" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T01:46:23.802Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="A_KV7sGGMo-pNv7uFtel" version="13.7.9" type="github">
   <diagram id="Hz9SQZm9DBwmcALDKWFs" name="Page-1">
     <mxGraphModel dx="3192" dy="2457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -185,7 +185,7 @@
           <mxGeometry x="1310" y="450" width="240" height="640" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-56" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="530" width="320" height="370" as="geometry" />
+          <mxGeometry x="-470" y="530" width="320" height="370" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-59" value="&lt;h1&gt;前置服务器各模块说明&lt;/h1&gt;&lt;div&gt;1.api接口服务主要负责为前端展示数据做支撑，从数据库中查询相关业务模块的历史记录&lt;/div&gt;&lt;div&gt;2.前端界面主要负责展示，方便用户管理操作。&lt;/div&gt;&lt;div&gt;3.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-490" y="1227.5" width="590" height="385" as="geometry" />
@@ -221,19 +221,19 @@
           <mxGeometry x="140" y="-270" width="430" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-74" value="第三方系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="480" width="170" height="50" as="geometry" />
+          <mxGeometry x="-470" y="480" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-75" value="设备台账" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-475" y="555" width="265" height="55" as="geometry" />
+          <mxGeometry x="-445" y="555" width="265" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-76" value="GIS" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-475" y="640" width="265" height="55" as="geometry" />
+          <mxGeometry x="-445" y="640" width="265" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-79" value="气象数据" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-472.5" y="730" width="265" height="55" as="geometry" />
+          <mxGeometry x="-442.5" y="730" width="265" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-80" value="..." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-472.5" y="820" width="265" height="55" as="geometry" />
+          <mxGeometry x="-442.5" y="820" width="265" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
