@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T00:49:39.170Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="bQSd2gapIzxLkalCO4Eh" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T00:52:13.735Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="55R7Vwu8Hof9znraazWv" version="13.7.9" type="github">
   <diagram id="Hz9SQZm9DBwmcALDKWFs" name="Page-1">
     <mxGraphModel dx="3192" dy="1288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,23 +88,23 @@
         <mxCell id="7Oax_VJaz0vtxvODjcff-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.168;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-21" target="7Oax_VJaz0vtxvODjcff-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-50" value="数据接收" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Oax_VJaz0vtxvODjcff-23">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-50" value="数据接收&lt;br&gt;数据下发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Oax_VJaz0vtxvODjcff-23">
           <mxGeometry x="0.0403" y="2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-21" value="Http接口服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-21" value="Websocket服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="940" width="123" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-22" target="7Oax_VJaz0vtxvODjcff-1">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-22" target="7Oax_VJaz0vtxvODjcff-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-25" value="数据上报&lt;br&gt;数据下发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Oax_VJaz0vtxvODjcff-24">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-25" value="数据接收" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Oax_VJaz0vtxvODjcff-24">
           <mxGeometry x="-0.015" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-22" value="Websocekt服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-22" value="http服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
