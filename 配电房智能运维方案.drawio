@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T01:38:19.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="jAGiTT6wUnX1yN2wqpa_" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T01:45:22.928Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="rF2jXbi96TNhhm5-p7Fo" version="13.7.9" type="github">
   <diagram id="Hz9SQZm9DBwmcALDKWFs" name="Page-1">
     <mxGraphModel dx="3192" dy="2457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7Oax_VJaz0vtxvODjcff-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="450" width="1160" height="640" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.023;entryY=0.834;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;entryPerimeter=0;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-27" target="7Oax_VJaz0vtxvODjcff-29">
@@ -29,8 +29,8 @@
         <mxCell id="7Oax_VJaz0vtxvODjcff-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="210" y="1340" width="1090" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-3" value="终端系统/设备" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1300" width="130" height="40" as="geometry" />
+        <mxCell id="7Oax_VJaz0vtxvODjcff-3" value="终端系统/设备" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1290" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-5" value="消防系统数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="230" y="1370" width="140" height="35" as="geometry" />
@@ -79,30 +79,38 @@
         <mxCell id="7Oax_VJaz0vtxvODjcff-18" value="回线温度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1081" y="1440" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-20" value="前置服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="410" width="120" height="40" as="geometry" />
+        <mxCell id="7Oax_VJaz0vtxvODjcff-20" value="前置服务器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.168;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-21" target="7Oax_VJaz0vtxvODjcff-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7Oax_VJaz0vtxvODjcff-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="1340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-50" value="数据接收&lt;br&gt;数据下发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Oax_VJaz0vtxvODjcff-23">
           <mxGeometry x="0.0403" y="2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-21" value="Websocket服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-21" value="Websocket服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="240" y="940" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.273;entryY=-0.034;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-22" target="7Oax_VJaz0vtxvODjcff-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7Oax_VJaz0vtxvODjcff-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-22" target="7Oax_VJaz0vtxvODjcff-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="1335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="1170" />
+              <mxPoint x="482" y="1170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-25" value="数据接收" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Oax_VJaz0vtxvODjcff-24">
           <mxGeometry x="-0.015" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-22" value="http服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="490" y="940" width="160" height="60" as="geometry" />
+        <mxCell id="7Oax_VJaz0vtxvODjcff-22" value="http服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="530" y="940" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="530" width="200" height="530" as="geometry" />
@@ -110,20 +118,20 @@
         <mxCell id="7Oax_VJaz0vtxvODjcff-30" value="数据中台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="490" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-31" value="mysql关系数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-31" value="关系数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1015" y="560" width="110" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-32" value="redis缓存数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-32" value="缓存数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1010" y="750" width="120" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-33" value="资源存储&lt;br&gt;(图片、视频等)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-33" value="资源存储&lt;br style=&quot;font-size: 14px;&quot;&gt;(图片、视频等)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1010" y="950" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-35" value="数据收集层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-35" value="数据收集层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="180" y="840" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="560" width="580" height="210" as="geometry" />
+          <mxGeometry x="180" y="530" width="580" height="240" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" target="7Oax_VJaz0vtxvODjcff-29">
           <mxGeometry relative="1" as="geometry">
@@ -135,7 +143,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-39" value="Api接口服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=14;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-39" target="7Oax_VJaz0vtxvODjcff-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-82" value="Http接口调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="7Oax_VJaz0vtxvODjcff-81">
+          <mxGeometry x="-0.0263" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-39" value="Api接口服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="210" y="680" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-40" target="7Oax_VJaz0vtxvODjcff-51">
@@ -154,27 +170,27 @@
         <mxCell id="7Oax_VJaz0vtxvODjcff-60" value="消息主题&lt;br&gt;订阅/发布" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-40" target="7Oax_VJaz0vtxvODjcff-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="615" />
+              <mxPoint x="130" y="582" />
               <mxPoint x="130" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-40" value="前端界面展示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="207" y="585" width="523" height="60" as="geometry" />
+        <mxCell id="7Oax_VJaz0vtxvODjcff-40" value="前端界面展示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="210" y="552.5" width="523" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-44" value="运维平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="520" width="150" height="40" as="geometry" />
+          <mxGeometry x="180" y="490" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-51" value="流媒体服务器" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-51" value="流媒体服务器" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1310" y="450" width="240" height="640" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-56" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="620" width="320" height="370" as="geometry" />
+          <mxGeometry x="-500" y="530" width="320" height="370" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-59" value="&lt;h1&gt;前置服务器各模块说明&lt;/h1&gt;&lt;div&gt;1.api接口服务主要负责为前端展示数据做支撑，从数据库中查询相关业务模块的历史记录&lt;/div&gt;&lt;div&gt;2.前端界面主要负责展示，方便用户管理操作。&lt;/div&gt;&lt;div&gt;3.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-490" y="1227.5" width="590" height="385" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-61" value="数据定期同步模块" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-61" value="数据定期同步模块" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="490" y="680" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-62" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
@@ -204,20 +220,20 @@
         <mxCell id="7Oax_VJaz0vtxvODjcff-70" value="Api接口层" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="-270" width="430" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-74" value="第三方系统" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="560" width="170" height="60" as="geometry" />
+        <mxCell id="7Oax_VJaz0vtxvODjcff-74" value="第三方系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="480" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-75" value="设备台账" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-515" y="645" width="265" height="55" as="geometry" />
+        <mxCell id="7Oax_VJaz0vtxvODjcff-75" value="设备台账" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="555" width="265" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-76" value="GIS" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-515" y="730" width="265" height="55" as="geometry" />
+        <mxCell id="7Oax_VJaz0vtxvODjcff-76" value="GIS" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="640" width="265" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-79" value="气象数据" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-512.5" y="820" width="265" height="55" as="geometry" />
+        <mxCell id="7Oax_VJaz0vtxvODjcff-79" value="气象数据" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-472.5" y="730" width="265" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-80" value="..." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-512.5" y="910" width="265" height="55" as="geometry" />
+        <mxCell id="7Oax_VJaz0vtxvODjcff-80" value="..." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-472.5" y="820" width="265" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
