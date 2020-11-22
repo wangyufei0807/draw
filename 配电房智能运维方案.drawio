@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T00:45:34.087Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="VeacpijYg62iltPr2Eil" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T00:49:39.170Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="bQSd2gapIzxLkalCO4Eh" version="13.7.9" type="github">
   <diagram id="Hz9SQZm9DBwmcALDKWFs" name="Page-1">
     <mxGraphModel dx="3192" dy="1288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
         <mxCell id="7Oax_VJaz0vtxvODjcff-33" value="资源存储&lt;br&gt;(图片、视频等)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1010" y="950" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-35" value="数据接收层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-35" value="数据收集层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="840" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
