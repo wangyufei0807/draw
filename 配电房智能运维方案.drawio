@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T00:37:08.183Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="9VJTJKw_YZILck4xd7wK" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T00:39:15.850Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="UEdtb5HjeNCqJk1MVmoK" version="13.7.9" type="github">
   <diagram id="Hz9SQZm9DBwmcALDKWFs" name="Page-1">
-    <mxGraphModel dx="2365" dy="1288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3192" dy="1288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,38 +15,46 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-27" target="7Oax_VJaz0vtxvODjcff-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-58" value="获取相关第三方数据进行融合" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Oax_VJaz0vtxvODjcff-57">
+          <mxGeometry x="0.2133" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="880" width="590" height="180" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1300" width="1090" height="160" as="geometry" />
+          <mxGeometry x="210" y="1340" width="1090" height="160" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-3" value="系统数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1260" width="130" height="40" as="geometry" />
+          <mxGeometry x="210" y="1300" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-5" value="消防系统数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1330" width="140" height="35" as="geometry" />
+          <mxGeometry x="230" y="1370" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-6" value="电气火灾检测数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1330" width="140" height="35" as="geometry" />
+          <mxGeometry x="400" y="1370" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-7" value="智能巡检系统数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1330" width="140" height="35" as="geometry" />
+          <mxGeometry x="570" y="1370" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-8" value="充电桩系统数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1400" width="140" height="35" as="geometry" />
+          <mxGeometry x="230" y="1440" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-9" value="光伏发电系统数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1400" width="140" height="35" as="geometry" />
+          <mxGeometry x="400" y="1440" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-10" value="储能系统数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1400" width="140" height="35" as="geometry" />
+          <mxGeometry x="570" y="1440" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-11" value="局放数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1330" width="100" height="35" as="geometry" />
+          <mxGeometry x="740" y="1370" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-12" value="其它数据.." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1400" width="100" height="35" as="geometry" />
+          <mxGeometry x="1160" y="1440" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-13" target="7Oax_VJaz0vtxvODjcff-51">
           <mxGeometry relative="1" as="geometry" />
@@ -57,22 +65,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-13" value="视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1330" width="100" height="35" as="geometry" />
+          <mxGeometry x="870" y="1370" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-14" value="开关量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="1330" width="100" height="35" as="geometry" />
+          <mxGeometry x="1000" y="1370" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-15" value="蓄电池数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="1330" width="100" height="35" as="geometry" />
+          <mxGeometry x="1130" y="1370" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-16" value="电气数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1400" width="110" height="35" as="geometry" />
+          <mxGeometry x="740" y="1440" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-17" value="环境温湿度数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="1400" width="110" height="35" as="geometry" />
+          <mxGeometry x="880" y="1440" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-18" value="回线温度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="1400" width="100" height="35" as="geometry" />
+          <mxGeometry x="1020" y="1440" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-20" value="前置服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="410" width="120" height="40" as="geometry" />
@@ -154,6 +162,9 @@
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-51" value="流媒体服务器" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1310" y="450" width="240" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="7Oax_VJaz0vtxvODjcff-56" value="第三方系统" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="865" width="370" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
