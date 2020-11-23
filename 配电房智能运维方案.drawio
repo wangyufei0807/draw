@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-23T01:51:48.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="tJh4woTgC3s-rM4zrFBr" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-23T01:53:31.855Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="gia6NyAW8FhPrJDtwswq" version="13.10.0" type="github">
   <diagram id="Hz9SQZm9DBwmcALDKWFs" name="Page-1">
     <mxGraphModel dx="3530" dy="2478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7Oax_VJaz0vtxvODjcff-62" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-600" width="1480" height="740" as="geometry" />
+          <mxGeometry x="580" y="-590" width="1480" height="740" as="geometry" />
         </mxCell>
         <mxCell id="buqoxcne-jieGNvII8d--84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeWidth=1;fontSize=18;endArrow=classic;endFill=1;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-19" target="7Oax_VJaz0vtxvODjcff-85">
           <mxGeometry relative="1" as="geometry" />
@@ -74,19 +74,19 @@
           <mxGeometry x="-610" y="1322.5" width="320" height="530" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-63" value="云端服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-660" width="180" height="60" as="geometry" />
+          <mxGeometry x="580" y="-650" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="-560" width="310" height="640" as="geometry" />
+          <mxGeometry x="1660" y="-550" width="310" height="640" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-67" value="&lt;font style=&quot;font-size: 30px&quot;&gt;缓存数据库集群&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1185" y="-266" width="180" height="140" as="geometry" />
+          <mxGeometry x="1725" y="-256" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-68" value="&lt;font style=&quot;font-size: 30px&quot;&gt;资源存储&lt;br&gt;(图片、视频等)&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1185" y="-80" width="195" height="110" as="geometry" />
+          <mxGeometry x="1725" y="-70" width="195" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-69" value="&lt;font style=&quot;font-size: 18px&quot;&gt;前端展示界面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="140" y="-520" width="690" height="140" as="geometry" />
+          <mxGeometry x="680" y="-510" width="690" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-84" value="http接口调用" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=16;" parent="1" source="7Oax_VJaz0vtxvODjcff-70" target="7Oax_VJaz0vtxvODjcff-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-70" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Api接口服务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="137" y="-270" width="690" height="140" as="geometry" />
+          <mxGeometry x="677" y="-260" width="690" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-74" value="第三方系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="-610" y="1260" width="170" height="62.5" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-85" value="&lt;font style=&quot;font-size: 18px&quot;&gt;数据同步接收模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="140" y="-50" width="683" height="130" as="geometry" />
+          <mxGeometry x="680" y="-40" width="683" height="130" as="geometry" />
         </mxCell>
         <mxCell id="buqoxcne-jieGNvII8d--3" value="配电房智能运维平台系统架构图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=70;" vertex="1" parent="1">
           <mxGeometry x="250" y="-900" width="1060" height="130" as="geometry" />
@@ -267,9 +267,8 @@
         <mxCell id="buqoxcne-jieGNvII8d--87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.162;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=1;fontSize=24;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-69" target="7Oax_VJaz0vtxvODjcff-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-50" y="-450" />
-              <mxPoint x="-50" y="230" />
-              <mxPoint x="367" y="230" />
+              <mxPoint x="680" y="-450" />
+              <mxPoint x="367" y="-450" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -279,13 +278,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="buqoxcne-jieGNvII8d--89" value="&lt;h1&gt;&lt;font style=&quot;font-size: 48px&quot;&gt;设计思路&lt;/font&gt;&lt;/h1&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt ; text-align: justify ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;span style=&quot;font-size: 40px ; line-height: 200%&quot;&gt;整个智能运维系统分为云端智能运维系统和配电房智能运维系统两大部分，云端负责收集配电房系统数据进行汇总，为虚拟电厂、安全管理、效益管理等业务模块提供数据支撑，配电房智能运维系统主要负责为云端提供数据，可单独部署，不受云端影响，假如与云端网络断开，可继续支撑系统运行。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt ; text-align: justify ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt ; font-size: 10.5pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;verticalAlign=top;spacingRight=20;spacingLeft=20;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="-610" width="690" height="860" as="geometry" />
+          <mxGeometry x="-610" y="-590" width="690" height="860" as="geometry" />
         </mxCell>
         <mxCell id="buqoxcne-jieGNvII8d--90" value="&lt;font style=&quot;font-size: 30px&quot;&gt;缓存数据库集群&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="-450" width="180" height="140" as="geometry" />
+          <mxGeometry x="1725" y="-440" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="buqoxcne-jieGNvII8d--91" value="数据存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1159" y="-530" width="230" height="31" as="geometry" />
+          <mxGeometry x="1699" y="-520" width="230" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
