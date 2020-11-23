@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-23T00:01:41.502Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="YRHkmWn_JbMONl02X3eF" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-23T00:04:04.632Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="s5LTmRkgsdGpLdG4vr2G" version="13.10.0" type="github">
   <diagram id="Hz9SQZm9DBwmcALDKWFs" name="Page-1">
-    <mxGraphModel dx="4611" dy="3229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1940" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,7 +204,7 @@
             <mxPoint x="1" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Oax_VJaz0vtxvODjcff-61" value="数据定期同步模块" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="7Oax_VJaz0vtxvODjcff-61" value="数据定期同步+实时数据同步模块" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="490" y="680" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-63" value="云端服务器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -284,6 +284,14 @@
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-85" value="数据同步接收模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="140" y="-50" width="683" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="buqoxcne-jieGNvII8d--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7Oax_VJaz0vtxvODjcff-27" target="7Oax_VJaz0vtxvODjcff-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buqoxcne-jieGNvII8d--2" value="需实时展示数据&lt;br&gt;如:告警数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="buqoxcne-jieGNvII8d--1">
+          <mxGeometry x="0.0068" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
