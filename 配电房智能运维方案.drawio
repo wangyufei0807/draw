@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-23T00:07:49.317Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="6rGsvUHOeMJXeZa43NkY" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-23T00:28:58.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="HutrDcnXsFUmqlUPSX40" version="13.10.0" type="github">
   <diagram id="Hz9SQZm9DBwmcALDKWFs" name="Page-1">
     <mxGraphModel dx="3530" dy="2640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="-600" width="1520" height="740" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="450" width="1160" height="640" as="geometry" />
+          <mxGeometry x="40" y="450" width="1190" height="640" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.023;entryY=0.834;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;entryPerimeter=0;" parent="1" source="7Oax_VJaz0vtxvODjcff-27" target="7Oax_VJaz0vtxvODjcff-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -173,8 +173,8 @@
         <mxCell id="7Oax_VJaz0vtxvODjcff-60" value="消息主题&lt;br&gt;订阅/发布" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="1" source="7Oax_VJaz0vtxvODjcff-40" target="7Oax_VJaz0vtxvODjcff-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="582" />
-              <mxPoint x="130" y="970" />
+              <mxPoint x="110" y="583" />
+              <mxPoint x="110" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -185,7 +185,7 @@
           <mxGeometry x="180" y="490" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-51" value="流媒体服务器" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="450" width="240" height="640" as="geometry" />
+          <mxGeometry x="1320" y="450" width="240" height="640" as="geometry" />
         </mxCell>
         <mxCell id="7Oax_VJaz0vtxvODjcff-56" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-470" y="530" width="320" height="370" as="geometry" />
@@ -292,6 +292,9 @@
           <mxGeometry x="0.0068" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="buqoxcne-jieGNvII8d--3" value="配电房智能运维平台系统架构图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-900" width="910" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
