@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-23T01:47:16.228Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="SPRUgmEcRyQnjpyNoUYd" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-23T01:48:54.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="sgXZfpzsVxzvDJ_pDleT" version="13.10.0" type="github">
   <diagram id="Hz9SQZm9DBwmcALDKWFs" name="Page-1">
     <mxGraphModel dx="3530" dy="2478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -278,8 +278,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="buqoxcne-jieGNvII8d--89" value="&lt;h1&gt;&lt;font style=&quot;font-size: 48px&quot;&gt;设计思路&lt;/font&gt;&lt;/h1&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt ; text-align: justify ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 48px&quot;&gt;&lt;font style=&quot;font-size: 48px&quot;&gt;整个智能运维系统分为云端智能运维系统和配电房智能运维系统两大部分，云端负责收集配电房系统数据进行汇总，为虚拟电厂、安全管理、效益管理等业务模块提供数据支撑，配电房智能运维系统主要负责为云端提供数据，可单独部署，不受云端影响，假如与云端网络断开，可继续支撑系统运行。&lt;/font&gt;&lt;span style=&quot;font-size: 10.5pt ; font-size: 10.5pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="-610" width="1010" height="760" as="geometry" />
+        <mxCell id="buqoxcne-jieGNvII8d--89" value="&lt;h1&gt;&lt;font style=&quot;font-size: 48px&quot;&gt;设计思路&lt;/font&gt;&lt;/h1&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt ; text-align: justify ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;span style=&quot;font-size: 40px ; line-height: 200%&quot;&gt;整个智能运维系统分为云端智能运维系统和配电房智能运维系统两大部分，云端负责收集配电房系统数据进行汇总，为虚拟电厂、安全管理、效益管理等业务模块提供数据支撑，配电房智能运维系统主要负责为云端提供数据，可单独部署，不受云端影响，假如与云端网络断开，可继续支撑系统运行。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt ; text-align: justify ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt ; font-size: 10.5pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="-610" width="690" height="760" as="geometry" />
         </mxCell>
         <mxCell id="buqoxcne-jieGNvII8d--90" value="&lt;font style=&quot;font-size: 30px&quot;&gt;缓存数据库集群&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1255" y="-450" width="180" height="140" as="geometry" />
