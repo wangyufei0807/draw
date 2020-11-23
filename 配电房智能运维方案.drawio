@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-23T00:32:02.325Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="-cv_2aJrbfkikuQIn9yk" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-23T00:32:17.720Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="CKrIcNfxG6pTFEaZNJFO" version="13.10.0" type="github">
   <diagram id="Hz9SQZm9DBwmcALDKWFs" name="Page-1">
     <mxGraphModel dx="3530" dy="2640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -308,7 +308,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="buqoxcne-jieGNvII8d--7" value="定时任务&lt;br&gt;周期任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="buqoxcne-jieGNvII8d--6">
+        <mxCell id="buqoxcne-jieGNvII8d--7" value="立即执行&lt;br&gt;定时任务&lt;br&gt;周期任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="buqoxcne-jieGNvII8d--6">
           <mxGeometry x="-0.2039" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
