@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T09:53:47.490Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="Olb8llVOFyboibN-m1nJ" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-11T10:00:09.753Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="nKZUa3NzJRkBabA3NLnl" version="14.0.1" type="github">
   <diagram id="ZLX79Pla6zQmYj3krY9h" name="Page-1">
-    <mxGraphModel dx="1426" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,8 @@
         <mxCell id="6ngK3pZLb5YHw3q2dqCH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6ngK3pZLb5YHw3q2dqCH-3">
           <mxGeometry width="350" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="6ngK3pZLb5YHw3q2dqCH-2" value="数据采集层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6ngK3pZLb5YHw3q2dqCH-3">
-          <mxGeometry x="139.02999999999997" y="11.79" width="77.58" height="15.71" as="geometry" />
+        <mxCell id="6ngK3pZLb5YHw3q2dqCH-2" value="设备级数据采集层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6ngK3pZLb5YHw3q2dqCH-3">
+          <mxGeometry x="110" y="11.79" width="106.61" height="15.71" as="geometry" />
         </mxCell>
         <mxCell id="6ngK3pZLb5YHw3q2dqCH-4" value="开关量、电容器烟感、回线温度、蓄电池数据、保护数据、电气数据、环境温湿度/水寝等" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" vertex="1" parent="6ngK3pZLb5YHw3q2dqCH-3">
           <mxGeometry x="16.93548387096774" y="60" width="321.7741935483871" height="15.71" as="geometry" />
@@ -24,7 +24,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6ngK3pZLb5YHw3q2dqCH-5" value="MQTT服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6ngK3pZLb5YHw3q2dqCH-5" value="HTTP服务/WEBSOCKET服务/MQTT服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="310" width="630" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ngK3pZLb5YHw3q2dqCH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.571;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="6ngK3pZLb5YHw3q2dqCH-6" target="6ngK3pZLb5YHw3q2dqCH-5">
@@ -70,7 +70,7 @@
             <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6ngK3pZLb5YHw3q2dqCH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="6ngK3pZLb5YHw3q2dqCH-21" target="6ngK3pZLb5YHw3q2dqCH-17">
+        <mxCell id="6ngK3pZLb5YHw3q2dqCH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="6ngK3pZLb5YHw3q2dqCH-21" target="6ngK3pZLb5YHw3q2dqCH-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6ngK3pZLb5YHw3q2dqCH-24" value="读/写" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6ngK3pZLb5YHw3q2dqCH-23">
@@ -117,6 +117,26 @@
         </mxCell>
         <mxCell id="6ngK3pZLb5YHw3q2dqCH-33" value="监控大屏展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="-390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6ngK3pZLb5YHw3q2dqCH-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="270" y="610" width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6ngK3pZLb5YHw3q2dqCH-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6ngK3pZLb5YHw3q2dqCH-37">
+          <mxGeometry width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6ngK3pZLb5YHw3q2dqCH-39" value="系统级数据采集层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6ngK3pZLb5YHw3q2dqCH-37">
+          <mxGeometry x="139.03" y="11.79" width="100.97" height="15.71" as="geometry" />
+        </mxCell>
+        <mxCell id="6ngK3pZLb5YHw3q2dqCH-40" value="充电桩系统、消防系统、光伏系统、储能系统等" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" vertex="1" parent="6ngK3pZLb5YHw3q2dqCH-37">
+          <mxGeometry x="16.93548387096774" y="60" width="321.7741935483871" height="15.71" as="geometry" />
+        </mxCell>
+        <mxCell id="6ngK3pZLb5YHw3q2dqCH-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontColor=#808080;" edge="1" parent="1" source="6ngK3pZLb5YHw3q2dqCH-38" target="6ngK3pZLb5YHw3q2dqCH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ngK3pZLb5YHw3q2dqCH-42" value="WEBSOCKET协议&lt;br&gt;HTTP协议&lt;br&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6ngK3pZLb5YHw3q2dqCH-41">
+          <mxGeometry x="-0.1461" y="1" relative="1" as="geometry">
+            <mxPoint x="-28" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
