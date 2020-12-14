@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T06:21:09.859Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="6ZufYASE7zIrF5OuPQYJ" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T06:26:48.540Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="sB02f8dZK_09073F-7kP" version="14.0.1" type="github">
   <diagram id="ZLX79Pla6zQmYj3krY9h" name="Page-1">
     <mxGraphModel dx="2505" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6ngK3pZLb5YHw3q2dqCH-10" value="Kafka消息队列服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6ngK3pZLb5YHw3q2dqCH-10" value="Kafka消息队列服务&lt;br&gt;处理高吞吐量数据并发" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="100" width="630" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ngK3pZLb5YHw3q2dqCH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="6ngK3pZLb5YHw3q2dqCH-21" target="6ngK3pZLb5YHw3q2dqCH-10" edge="1">
