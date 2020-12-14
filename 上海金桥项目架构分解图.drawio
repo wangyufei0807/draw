@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T06:26:48.540Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="sB02f8dZK_09073F-7kP" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T06:27:10.850Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="OZ6EauooiuuFbSc5qQAf" version="14.0.1" type="github">
   <diagram id="ZLX79Pla6zQmYj3krY9h" name="Page-1">
     <mxGraphModel dx="2505" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -235,10 +235,10 @@
           <mxGeometry x="920.0047058823527" y="500.0023529411766" as="geometry" />
         </mxCell>
         <mxCell id="4pEcCP3RO2RsposU3_rt-23" value="针对海量数据的存储，支持复杂的查询，如:设备上报的历史记录数据，后期便于数据分析和统计" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="1406" y="160" width="124" height="130" as="geometry" />
+          <mxGeometry x="1406" y="160" width="134" height="130" as="geometry" />
         </mxCell>
         <mxCell id="4pEcCP3RO2RsposU3_rt-25" value="针对热数据的存储,如:某设备的最新一条数据,业务查询的一些缓存数据等" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="1406" y="-20" width="124" height="120" as="geometry" />
+          <mxGeometry x="1406" y="-20" width="134" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
