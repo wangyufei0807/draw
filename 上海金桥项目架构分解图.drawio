@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T05:42:03.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="rTZz9X5yxDyAk4oFnEWq" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T05:42:33.537Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="4UOwGt618knI2Z2LDK77" version="14.0.1" type="github">
   <diagram id="ZLX79Pla6zQmYj3krY9h" name="Page-1">
     <mxGraphModel dx="2505" dy="2009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,13 +27,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6ngK3pZLb5YHw3q2dqCH-5" value="HTTP服务/WEBSOCKET服务/MQTT服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6ngK3pZLb5YHw3q2dqCH-5" value="HTTP服务/WEBSOCKET服务或MQTT服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="310" width="630" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ngK3pZLb5YHw3q2dqCH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.571;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="6ngK3pZLb5YHw3q2dqCH-6" target="6ngK3pZLb5YHw3q2dqCH-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6ngK3pZLb5YHw3q2dqCH-9" value="MQTT协议&lt;br&gt;上行:状态上报&lt;br&gt;下行:指令控制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6ngK3pZLb5YHw3q2dqCH-8" vertex="1" connectable="0">
+        <mxCell id="6ngK3pZLb5YHw3q2dqCH-9" value="MQTT协议/websocket协议&lt;br&gt;上行:状态上报&lt;br&gt;下行:指令控制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6ngK3pZLb5YHw3q2dqCH-8" vertex="1" connectable="0">
           <mxGeometry x="-0.0229" y="-1" relative="1" as="geometry">
             <mxPoint x="3.5" y="-3.5" as="offset" />
           </mxGeometry>
