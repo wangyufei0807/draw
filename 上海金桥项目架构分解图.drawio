@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T06:20:11.329Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="tLhUdF2fm3oHg-fw24Dh" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T06:20:41.585Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="HKkN6JQFeN4zqAJwrrwf" version="14.0.1" type="github">
   <diagram id="ZLX79Pla6zQmYj3krY9h" name="Page-1">
     <mxGraphModel dx="2505" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -137,7 +137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6ngK3pZLb5YHw3q2dqCH-44" value="&lt;font style=&quot;font-size: 30px&quot;&gt;流媒体服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="-140" width="120" height="430" as="geometry" />
+          <mxGeometry x="1570" y="-140" width="120" height="430" as="geometry" />
         </mxCell>
         <mxCell id="6ngK3pZLb5YHw3q2dqCH-47" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1030" y="731.7700000000001" width="350" height="110" as="geometry" />
@@ -235,10 +235,10 @@
           <mxGeometry x="920.0047058823527" y="500.0023529411766" as="geometry" />
         </mxCell>
         <mxCell id="4pEcCP3RO2RsposU3_rt-23" value="针对海量数据的存储，支持复杂的查询，如:设备上报的历史记录数据，后期便于数据分析和统计" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="1406" y="160" width="104" height="130" as="geometry" />
+          <mxGeometry x="1406" y="160" width="124" height="130" as="geometry" />
         </mxCell>
         <mxCell id="4pEcCP3RO2RsposU3_rt-25" value="针对热数据的存储,如:某设备的最新一条数据,业务查询的一些缓存数据等" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="1406" y="-20" width="104" height="147.5" as="geometry" />
+          <mxGeometry x="1406" y="-20" width="124" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
