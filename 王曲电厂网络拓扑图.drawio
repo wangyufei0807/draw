@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-26T06:41:40.640Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="dKBQf7kCobxGobGunEEO" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-26T07:25:08.100Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="rJk8gCEsfZZeRmblHHhU" version="14.0.1" type="github">
   <diagram id="fDtv-NP8o_LM4w9Mx3LK" name="Page-1">
-    <mxGraphModel dx="1410" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,7 +86,7 @@
         <mxCell id="BwLVxdTWhbgkWEdLYuY5-34" value="Pad" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.tablet;" vertex="1" parent="1">
           <mxGeometry x="560" y="30" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BwLVxdTWhbgkWEdLYuY5-38" value="&lt;p style=&quot;line-height: 150%&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;b&gt;本机端口汇总&lt;/b&gt;&lt;/div&gt;&lt;div&gt;tomcat：8080&lt;/div&gt;&lt;div&gt;mysql：3306&lt;/div&gt;&lt;div&gt;sis：8800&lt;/div&gt;&lt;div&gt;easyNvr：10800&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=middle;align=left;spacingLeft=10;" vertex="1" parent="1">
+        <mxCell id="BwLVxdTWhbgkWEdLYuY5-38" value="&lt;p style=&quot;line-height: 150%&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;b&gt;本机端口汇总&lt;/b&gt;&lt;/div&gt;&lt;div&gt;tomcat：8080&lt;/div&gt;&lt;div&gt;mysql：3306&lt;/div&gt;&lt;div&gt;sis：8800&lt;/div&gt;&lt;div&gt;erp：8806&lt;br&gt;&lt;/div&gt;&lt;div&gt;easynvr：10800&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=middle;align=left;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="720" y="260" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BwLVxdTWhbgkWEdLYuY5-39" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;外部调用地址汇总&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;亿嘉和：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;(1#机组零米)WEBSOCKET：192.168.20.10:8088&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(500KV升压站)WEBSOCKET：192.168.20.20:8088&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(6KV配电室)WEBSOCKET：192.168.20.100:8089&lt;br&gt;&lt;/div&gt;&lt;div&gt;(全局)HTTP：192.168.20.150:8080&lt;/div&gt;&lt;div&gt;国自：&lt;/div&gt;&lt;div&gt;(9#输煤栈桥)WEBSOCKET：192.168.1.57:9002&lt;/div&gt;&lt;div&gt;(9#输煤栈桥)HTTP：192.168.1.57:8081&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;spacingLeft=10;" vertex="1" parent="1">
