@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T07:36:13.428Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="HpUkLxVycjfkLT9zH7rU" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T07:49:08.589Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="1TmdlKPihwXIMaojZLMZ" version="14.1.9" type="github">
   <diagram id="ApqqFG8L7qvS_qOuRPtI" name="第 1 页">
     <mxGraphModel dx="1412" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
         </mxCell>
         <mxCell id="xsoDjLCZmWEOM9lgs2-u-42" value="MQTT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="xsoDjLCZmWEOM9lgs2-u-41">
           <mxGeometry x="-0.0476" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" y="23" as="offset" />
+            <mxPoint x="-1" y="25" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xsoDjLCZmWEOM9lgs2-u-34" value="电力监控系统主机" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_pc;" vertex="1" parent="1">
@@ -146,6 +146,9 @@
         </mxCell>
         <mxCell id="xsoDjLCZmWEOM9lgs2-u-39" value="站控层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="36" y="190" width="62" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xsoDjLCZmWEOM9lgs2-u-47" value="&lt;p style=&quot;line-height: 190%&quot;&gt;通信层是一个承上启下的物理层，负责把设备&lt;br&gt;层的信息传送给站控层，并且把站控层的命令&lt;br&gt;下达给设备层。需要支持主流的厂家设备通信&lt;br&gt;规约，例如:101、103、104、MODBUS等。&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="260" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
