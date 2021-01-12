@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T07:23:02.534Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="AoJEmoK0P88StFEciwQx" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T07:25:01.669Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="lGEycEh2mFkCFjRkqdPD" version="14.1.9" type="github">
   <diagram id="ApqqFG8L7qvS_qOuRPtI" name="第 1 页">
     <mxGraphModel dx="1412" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
             <mxPoint x="280" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xsoDjLCZmWEOM9lgs2-u-13" value="IEC103" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xsoDjLCZmWEOM9lgs2-u-5">
+        <mxCell id="xsoDjLCZmWEOM9lgs2-u-13" value="IEC104" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xsoDjLCZmWEOM9lgs2-u-5">
           <mxGeometry x="0.6958" y="-1" relative="1" as="geometry">
             <mxPoint y="-8" as="offset" />
           </mxGeometry>
@@ -39,9 +39,9 @@
             <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xsoDjLCZmWEOM9lgs2-u-16" value="MODBUS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xsoDjLCZmWEOM9lgs2-u-7">
+        <mxCell id="xsoDjLCZmWEOM9lgs2-u-16" value="其他规约" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xsoDjLCZmWEOM9lgs2-u-7">
           <mxGeometry x="0.7398" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xsoDjLCZmWEOM9lgs2-u-1" value="数据采集器" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;" vertex="1" parent="1">
@@ -87,7 +87,7 @@
         <mxCell id="xsoDjLCZmWEOM9lgs2-u-11" value="传感器4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="490" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xsoDjLCZmWEOM9lgs2-u-14" value="IEC104" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="xsoDjLCZmWEOM9lgs2-u-14" value="MODBUS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="470" y="444.99999057692395" as="geometry" />
         </mxCell>
         <mxCell id="xsoDjLCZmWEOM9lgs2-u-18" value="数据点1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
