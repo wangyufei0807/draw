@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T07:29:26.525Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="c2fB_IsXTCWUH0UjOOki" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T07:29:53.725Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="NztVV9zAZJmELRrpwAHi" version="14.1.9" type="github">
   <diagram id="ApqqFG8L7qvS_qOuRPtI" name="第 1 页">
     <mxGraphModel dx="1412" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,6 +128,9 @@
             <mxPoint x="29" y="420" as="sourcePoint" />
             <mxPoint x="799" y="420" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xsoDjLCZmWEOM9lgs2-u-37" value="通信层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="24" y="352" width="66" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
