@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T09:49:09.391Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ljGtQHBh7wF46ONSEd-6" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T10:15:12.273Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="bBUe7zDuwugfcpM2jz-G" version="14.1.9" type="github">
   <diagram id="ZLX79Pla6zQmYj3krY9h" name="Page-1">
     <mxGraphModel dx="2691" dy="2171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6ngK3pZLb5YHw3q2dqCH-10" value="Kafka消息队列服务&lt;br&gt;处理高吞吐量数据并发" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="100" width="630" height="60" as="geometry" />
+          <mxGeometry x="360" y="40" width="630" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ngK3pZLb5YHw3q2dqCH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="6ngK3pZLb5YHw3q2dqCH-21" target="6ngK3pZLb5YHw3q2dqCH-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6ngK3pZLb5YHw3q2dqCH-21" value="实时消息处理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="-60" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ngK3pZLb5YHw3q2dqCH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="6ngK3pZLb5YHw3q2dqCH-26" target="6ngK3pZLb5YHw3q2dqCH-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -86,6 +86,14 @@
               <mxPoint x="310" y="-390" />
               <mxPoint x="310" y="340" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOWI92VTgoeN90mq59TN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="6ngK3pZLb5YHw3q2dqCH-29" target="wOWI92VTgoeN90mq59TN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOWI92VTgoeN90mq59TN-6" value="通过插件进行访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="wOWI92VTgoeN90mq59TN-5">
+          <mxGeometry x="-0.1595" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6ngK3pZLb5YHw3q2dqCH-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -242,6 +250,26 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="650" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wOWI92VTgoeN90mq59TN-2" value="&lt;font style=&quot;font-size: 11px&quot;&gt;读/写&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.303;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="wOWI92VTgoeN90mq59TN-1" target="6ngK3pZLb5YHw3q2dqCH-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOWI92VTgoeN90mq59TN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="wOWI92VTgoeN90mq59TN-1" target="6ngK3pZLb5YHw3q2dqCH-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="85" />
+              <mxPoint x="1020" y="140" />
+              <mxPoint x="832" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOWI92VTgoeN90mq59TN-4" value="订阅/发布" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="wOWI92VTgoeN90mq59TN-3">
+          <mxGeometry x="-0.2421" y="-5" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOWI92VTgoeN90mq59TN-1" value="三维着色模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="58" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
