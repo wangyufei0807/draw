@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T10:16:47.505Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="i5fUupoOCf220ciVbmRw" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T10:17:50.544Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="KUXs01F0BUhXOXNut_gv" version="14.1.9" type="github">
   <diagram id="ZLX79Pla6zQmYj3krY9h" name="Page-1">
     <mxGraphModel dx="2691" dy="2171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,7 +217,7 @@
         <mxCell id="6ngK3pZLb5YHw3q2dqCH-20" value="数据存储服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1293.5" y="-110" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4pEcCP3RO2RsposU3_rt-14" value="文件存储&lt;br&gt;图片/视频/音频" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+        <mxCell id="4pEcCP3RO2RsposU3_rt-14" value="文件存储&lt;br&gt;图片/视频/音频/点云las文件" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="1295" y="270" width="72" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4pEcCP3RO2RsposU3_rt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="4pEcCP3RO2RsposU3_rt-16" target="4pEcCP3RO2RsposU3_rt-15" edge="1">
