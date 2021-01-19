@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T01:38:39.188Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="7TFhFtgSkvSAwWVmXSe_" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T01:41:30.591Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6fyG2LBLjzIJsJvUjV1n" version="14.2.4" type="github">
   <diagram id="ZLX79Pla6zQmYj3krY9h" name="Page-1">
-    <mxGraphModel dx="1271" dy="2577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3934" dy="4008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,7 +9,7 @@
             <mxPoint x="508" y="-521" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hge64UIndF-OUd2xj7uE-52" value="实时消息订阅/发送&lt;br&gt;配电房MQTT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hge64UIndF-OUd2xj7uE-51">
+        <mxCell id="Hge64UIndF-OUd2xj7uE-52" value="实时消息订阅/发送&lt;br&gt;调用配电房MQTT实现" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hge64UIndF-OUd2xj7uE-51">
           <mxGeometry x="0.0295" y="7" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
@@ -289,9 +289,17 @@
         <mxCell id="wOWI92VTgoeN90mq59TN-1" value="三维着色模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="58" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hge64UIndF-OUd2xj7uE-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0.497;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hge64UIndF-OUd2xj7uE-1" target="4pEcCP3RO2RsposU3_rt-15">
+        <mxCell id="Hge64UIndF-OUd2xj7uE-53" value="三维点云实时渲染&lt;br&gt;调用配电房三维模块实现" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0.497;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hge64UIndF-OUd2xj7uE-1" target="4pEcCP3RO2RsposU3_rt-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="821" y="-540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hge64UIndF-OUd2xj7uE-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Hge64UIndF-OUd2xj7uE-1" target="4pEcCP3RO2RsposU3_rt-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hge64UIndF-OUd2xj7uE-55" value="数据同步&lt;br&gt;调用云端Kafka消息队列+http接口实现" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hge64UIndF-OUd2xj7uE-54">
+          <mxGeometry x="-0.0557" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hge64UIndF-OUd2xj7uE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
