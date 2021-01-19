@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T01:52:50.530Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="w90ArNzsL8Ar1e1nkdmc" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T01:53:51.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="46FPqFpJPOjs06ndV6X3" version="14.2.4" type="github">
   <diagram id="ZLX79Pla6zQmYj3krY9h" name="Page-1">
-    <mxGraphModel dx="3934" dy="4008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7996" dy="6192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -302,7 +302,7 @@
         <mxCell id="Hge64UIndF-OUd2xj7uE-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Hge64UIndF-OUd2xj7uE-1" target="4pEcCP3RO2RsposU3_rt-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hge64UIndF-OUd2xj7uE-55" value="数据同步&lt;br&gt;调用云端Kafka消息队列+http接口实现" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hge64UIndF-OUd2xj7uE-54">
+        <mxCell id="Hge64UIndF-OUd2xj7uE-55" value="数据同步/获取&lt;br&gt;调用云端Kafka消息队列+http接口实现" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hge64UIndF-OUd2xj7uE-54">
           <mxGeometry x="-0.0557" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
