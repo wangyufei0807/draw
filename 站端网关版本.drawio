@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T02:55:17.964Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="47pHt_VGjz7_3PY4721x" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T03:44:59.849Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="1fnGvXx-21jymZ1yBzPL" version="14.6.3" type="github">
   <diagram id="mSy1AuAVxe22ZnLyFNmL" name="第 1 页">
     <mxGraphModel dx="1412" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,17 +35,10 @@
         <mxCell id="uBkenq1J7Bc0aekrVSAU-11" value="web前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uBkenq1J7Bc0aekrVSAU-15" value="订阅发布" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="uBkenq1J7Bc0aekrVSAU-14" target="uBkenq1J7Bc0aekrVSAU-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uBkenq1J7Bc0aekrVSAU-14" value="着色服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uBkenq1J7Bc0aekrVSAU-17" value="订阅/发布" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="uBkenq1J7Bc0aekrVSAU-16" target="uBkenq1J7Bc0aekrVSAU-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uBkenq1J7Bc0aekrVSAU-16" value="任务调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="uBkenq1J7Bc0aekrVSAU-15" value="订阅发布" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" target="uBkenq1J7Bc0aekrVSAU-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="340" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uBkenq1J7Bc0aekrVSAU-18" value="网关—&gt;MQTT" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="680" width="140" height="234" as="geometry">
@@ -77,7 +70,7 @@
           <mxGeometry y="208" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uBkenq1J7Bc0aekrVSAU-27" value="MQTT—&gt;网关" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="680" width="140" height="156" as="geometry">
+          <mxGeometry x="310" y="680" width="140" height="182" as="geometry">
             <mxRectangle x="100" y="680" width="110" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -95,6 +88,12 @@
         </mxCell>
         <mxCell id="uBkenq1J7Bc0aekrVSAU-32" value="5.路径规划更新通知" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uBkenq1J7Bc0aekrVSAU-27">
           <mxGeometry y="130" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uBkenq1J7Bc0aekrVSAU-36" value="6.云台控制" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uBkenq1J7Bc0aekrVSAU-27">
+          <mxGeometry y="156" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uBkenq1J7Bc0aekrVSAU-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="190" width="170" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
