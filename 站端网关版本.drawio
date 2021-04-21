@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T03:44:59.849Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="1fnGvXx-21jymZ1yBzPL" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T03:46:52.568Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Py8hXfwSNkD0WvIxfy_n" version="14.6.3" type="github">
   <diagram id="mSy1AuAVxe22ZnLyFNmL" name="第 1 页">
     <mxGraphModel dx="1412" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,8 +92,20 @@
         <mxCell id="uBkenq1J7Bc0aekrVSAU-36" value="6.云台控制" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uBkenq1J7Bc0aekrVSAU-27">
           <mxGeometry y="156" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="uBkenq1J7Bc0aekrVSAU-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="190" width="170" height="300" as="geometry" />
+        <mxCell id="uBkenq1J7Bc0aekrVSAU-37" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="190" width="170" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="uBkenq1J7Bc0aekrVSAU-38" value="任务调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uBkenq1J7Bc0aekrVSAU-39" value="路径规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uBkenq1J7Bc0aekrVSAU-40" value="实时消息预警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uBkenq1J7Bc0aekrVSAU-41" value="着色服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
