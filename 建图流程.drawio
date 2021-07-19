@@ -1,1 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T06:46:12.736Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="EHb7f0vUmClmza8SZDEm" version="14.8.6" type="github"><diagram id="g7DShIPE9myxs7cQCo8G" name="Page-1">5VnLcpswFP0aLZMxT8MSbNIu0seMF22XspFBrYw8Qo7tfH2vQBgwkDptJn50xjOWjl7o3HsPVwJZk9Xug8Dr9BOPCUPmKN4ha4pM07BNF/4Usi8R17NLIBE01p1qYEafiQZHGt3QmOStjpJzJum6DS54lpGFbGFYCL5td1ty1l51jRPSAWYLzLroNxrLtEQ9c1zjHwlN0mplw/XLlhWuOuud5CmO+bYBWRGyJoJzWZZWuwlhiryKl3Lcw0Dr4cEEyeQpA+bZF0vMMKO5iTkNPkfzTXRnlbM8YbbRG9YPK/cVAyQGQnSVC5nyhGeYRTUaCr7JYqKWGUGt7vPI+RpAA8CfRMq9ti7eSA5QKldMt5ZrqoUG96ahnG/EgrywocpHsEiIfKGfebAAuC7hKyLFHsYJwrCkT+3nwNqHkkO/mmYoaKZfwbrdYd3opf0RzyGcWlTBTEkG5QUwQwQAT0RICv4a6IYVjePSKiSnz3hezKfssuY0k8VOnBA50wPtagKyQz3BpAfXLtw0yLA7dVnVs9+N7kdOOdO+td7JrOupv6qtNLrw5TIHax+b5fAEf28poxsfkYM8H3lTFI1REKLgoWs6xkCelA22KZVktsaFy25BIY+Mma9LzVrSnYqfYYt0QmGQZKNSTk2xaen6tiFfGkobylVhb+7s41uTGPNEiXHPKTFeh/V+2q9OYsb/yOq7S4jZIyE2CkP1U1oSoMBAkYfCEfIshYSAuJclKub4wkTF6GH1ulXFPVFVjAFLvY+sGE6Hd+s2dMUYyAj19JC6mNeWu3TTzP8lRgby0HeKEbfDu30jMWK/GCN3jSC54LDwzxEFZEfldzX83tG1H3oyVZ7umpV9Vclgp41Bqvqj2VYPK2rVuDNE3FmP05X/NgLOuZGA8/8YcMZ1vZS62qjO0eEU+UaRDUP625NQnDP3ta1Ly337LiXg/ADs2Shy1fnBH6mCPymuKQ5nDAf5Pgq8y6LX8S+N3p47UXUq85VnKjIf1FHtojg8dlHLPzOHZp+LOsWhNyj8EApR4avAp1HcpHnIg/MwcDtBftChF7iRbR5zKfgvMuGMg2pPM54p7peUsSPodIHvM1z7vf8Gpjq+njPM00xlv95UUK2/LpT6XX+jsaLf</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-19T07:13:02.107Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="-CUBi-ADF8luERg9PDSR" version="14.8.6" type="github">
+  <diagram id="g7DShIPE9myxs7cQCo8G" name="Page-1">
+    <mxGraphModel dx="1426" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bnO3rSalis2aoiANEbuE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="bnO3rSalis2aoiANEbuE-1" target="bnO3rSalis2aoiANEbuE-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bnO3rSalis2aoiANEbuE-4" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bnO3rSalis2aoiANEbuE-3" vertex="1" connectable="0">
+          <mxGeometry x="-0.05" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="diJYGg4Zcv_C8yExAffO-6" value="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bnO3rSalis2aoiANEbuE-1" target="bnO3rSalis2aoiANEbuE-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="340" />
+              <mxPoint x="630" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bnO3rSalis2aoiANEbuE-1" value="前端" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="110" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bnO3rSalis2aoiANEbuE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="bnO3rSalis2aoiANEbuE-2" target="bnO3rSalis2aoiANEbuE-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bnO3rSalis2aoiANEbuE-8" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bnO3rSalis2aoiANEbuE-7" vertex="1" connectable="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="diJYGg4Zcv_C8yExAffO-8" value="5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bnO3rSalis2aoiANEbuE-2" target="bnO3rSalis2aoiANEbuE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bnO3rSalis2aoiANEbuE-2" value="任务调度" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="270" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bnO3rSalis2aoiANEbuE-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bnO3rSalis2aoiANEbuE-6" target="bnO3rSalis2aoiANEbuE-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bnO3rSalis2aoiANEbuE-15" value="3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bnO3rSalis2aoiANEbuE-12" vertex="1" connectable="0">
+          <mxGeometry x="0.025" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="diJYGg4Zcv_C8yExAffO-9" value="4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bnO3rSalis2aoiANEbuE-6" target="bnO3rSalis2aoiANEbuE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bnO3rSalis2aoiANEbuE-6" value="网关" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="430" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="diJYGg4Zcv_C8yExAffO-7" value="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bnO3rSalis2aoiANEbuE-11" target="bnO3rSalis2aoiANEbuE-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="200" />
+              <mxPoint x="150" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bnO3rSalis2aoiANEbuE-11" value="资源服务器" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="590" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bnO3rSalis2aoiANEbuE-21" value="建图流程：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="diJYGg4Zcv_C8yExAffO-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1.前端发布建图任务到任务调度&amp;nbsp; &amp;nbsp;&amp;nbsp;/ydcloud/pt/task/data&lt;br&gt;2.任务调度将建图任务发送给网关(终端设备id+参数)&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(36 , 41 , 46) ; background-color: rgb(255 , 255 , 255)&quot;&gt;/ydcloud/gw/{gateway_id}/iot/task/data/down&lt;br&gt;&lt;/span&gt;3.网关收到任务后开始进行建图，建图完成后将pcd文件上传到资源服务器 通过ftp或http接口方式上传&lt;br&gt;4.建图的任务状态和进度返回给任务调度&lt;br&gt;5.前端下发地图格式转换命令给资源服务器&lt;br&gt;6.资源服务器进行文件转换，并将转换状态返回给前端&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;spacing=2;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="620" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
