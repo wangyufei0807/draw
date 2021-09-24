@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T02:36:11.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ohGwHd9FhCJoiH6S-ts4" version="15.3.1" type="github"><diagram id="U1JF1a8yleO5Nu3D4Tec" name="Page-1">jZLdaoQwEIWfJpcLRltXL1frbqH0YrGlvU11agLRSMxW7dM3bhJ/WBYKgplvZhxz5qAgrYeTJC19FSVw5HvlgIIn5Ps4DEP9mshoSBh5BlSSlbZoATn7BQtd2YWV0G0KlRBcsXYLC9E0UKgNI1KKflv2Lfh2aksquAF5Qfgt/WClooZG/n7hz8Aq6ibjMDaZmrhie5OOklL0KxRkKEilEMqc6iEFPonndDF9xzvZ+cckNOo/Dcwb09Ob/7ULz9U5/syKl/37zn7lh/CLvTDKHlCSTE/2iKIDOuAriVBkyBHFtqlTo1NJT9IL0UHSU6Ygb0kxZXrtCc2oqrmOsD7acSAVDHfvgWd1tK1A1KDkqEtcg7OGdRSObdwv+8FOdLrajXMesZao5k8vqumDFc6Fy4KuuZXNg+wP</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-24T02:52:24.779Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Fm0J5bHx9MBf9UAJZb0C" version="15.3.1" type="github">
+  <diagram id="U1JF1a8yleO5Nu3D4Tec" name="Page-1">
+    <mxGraphModel dx="1666" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9FX9xKna8-z17BfK_glb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9FX9xKna8-z17BfK_glb-6" target="9FX9xKna8-z17BfK_glb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9FX9xKna8-z17BfK_glb-6" value="建图任务" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9FX9xKna8-z17BfK_glb-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9FX9xKna8-z17BfK_glb-7" target="9FX9xKna8-z17BfK_glb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9FX9xKna8-z17BfK_glb-7" value="上传文件&lt;br&gt;任务" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9FX9xKna8-z17BfK_glb-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9FX9xKna8-z17BfK_glb-9" target="9FX9xKna8-z17BfK_glb-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9FX9xKna8-z17BfK_glb-9" value="格式转换+分隔" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9FX9xKna8-z17BfK_glb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9FX9xKna8-z17BfK_glb-11" target="9FX9xKna8-z17BfK_glb-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9FX9xKna8-z17BfK_glb-23" value="监听更新地图的任务状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9FX9xKna8-z17BfK_glb-19">
+          <mxGeometry x="0.04" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FX9xKna8-z17BfK_glb-11" value="地图更新" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="620" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9FX9xKna8-z17BfK_glb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9FX9xKna8-z17BfK_glb-13" target="9FX9xKna8-z17BfK_glb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9FX9xKna8-z17BfK_glb-21" value="下发建图任务&lt;br&gt;带上建图版本" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9FX9xKna8-z17BfK_glb-14">
+          <mxGeometry x="-0.28" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FX9xKna8-z17BfK_glb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9FX9xKna8-z17BfK_glb-13" target="9FX9xKna8-z17BfK_glb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9FX9xKna8-z17BfK_glb-22" value="将建图版本记录写库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9FX9xKna8-z17BfK_glb-16">
+          <mxGeometry x="-0.1444" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FX9xKna8-z17BfK_glb-13" value="任务调度" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9FX9xKna8-z17BfK_glb-15" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="130" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9FX9xKna8-z17BfK_glb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9FX9xKna8-z17BfK_glb-18" target="9FX9xKna8-z17BfK_glb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9FX9xKna8-z17BfK_glb-24" value="更新建图版本状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9FX9xKna8-z17BfK_glb-20">
+          <mxGeometry x="-0.1125" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FX9xKna8-z17BfK_glb-18" value="地图任务监听" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="620" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
