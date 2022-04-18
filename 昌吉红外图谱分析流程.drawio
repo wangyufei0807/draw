@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T05:36:41.555Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="gEzqTQUN4H71gIYGEQJe" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T05:42:10.940Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="o3UgiW4n-u4zBPX5BRBo" version="16.6.4" type="github">
   <diagram id="Ngma9uTH-kOSsA47BcDm" name="Page-1">
     <mxGraphModel dx="1426" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eiqtC8RxXbG8RJ6kN2Gq-2" value="昌吉巡视主机" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="260" y="130" width="100" height="60" as="geometry" />
+          <mxGeometry x="230" y="130" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eiqtC8RxXbG8RJ6kN2Gq-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eiqtC8RxXbG8RJ6kN2Gq-3" target="eiqtC8RxXbG8RJ6kN2Gq-6">
           <mxGeometry relative="1" as="geometry" />
@@ -26,35 +26,28 @@
         <mxCell id="eiqtC8RxXbG8RJ6kN2Gq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="eiqtC8RxXbG8RJ6kN2Gq-3" target="eiqtC8RxXbG8RJ6kN2Gq-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="305" />
-              <mxPoint x="390" y="270" />
-              <mxPoint x="620" y="270" />
-              <mxPoint x="620" y="310" />
+              <mxPoint x="360" y="305" />
+              <mxPoint x="360" y="270" />
+              <mxPoint x="590" y="270" />
+              <mxPoint x="590" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eiqtC8RxXbG8RJ6kN2Gq-11" value="2.获取当前设备的模拟量运行数据&lt;br&gt;保存到数据库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eiqtC8RxXbG8RJ6kN2Gq-10">
           <mxGeometry x="-0.0743" y="-1" relative="1" as="geometry">
-            <mxPoint x="-41" y="-1" as="offset" />
+            <mxPoint x="-12" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eiqtC8RxXbG8RJ6kN2Gq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eiqtC8RxXbG8RJ6kN2Gq-3" target="eiqtC8RxXbG8RJ6kN2Gq-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="335" />
-              <mxPoint x="390" y="370" />
-              <mxPoint x="620" y="370" />
-              <mxPoint x="620" y="320" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="eiqtC8RxXbG8RJ6kN2Gq-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eiqtC8RxXbG8RJ6kN2Gq-3" target="eiqtC8RxXbG8RJ6kN2Gq-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eiqtC8RxXbG8RJ6kN2Gq-16" value="5.将分析结果保存到数据库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eiqtC8RxXbG8RJ6kN2Gq-12">
+        <mxCell id="eiqtC8RxXbG8RJ6kN2Gq-16" value="5.上位机系统将分析结果保存到数据库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eiqtC8RxXbG8RJ6kN2Gq-12">
           <mxGeometry x="-0.2967" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eiqtC8RxXbG8RJ6kN2Gq-3" value="上位机系统" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="250" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eiqtC8RxXbG8RJ6kN2Gq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eiqtC8RxXbG8RJ6kN2Gq-6" target="eiqtC8RxXbG8RJ6kN2Gq-3">
           <mxGeometry relative="1" as="geometry" />
@@ -65,13 +58,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eiqtC8RxXbG8RJ6kN2Gq-6" value="红外分析模块" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="250" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eiqtC8RxXbG8RJ6kN2Gq-8" value="&lt;h1&gt;1.昌吉巡视主机上报红外巡检结果给上位机系统。&lt;/h1&gt;&lt;div&gt;2.获取当前对象的实时运行数据保存到数据库&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.将预置位、部件id、终端设备id、标定文件id、相机id、数据id，红外图谱文件发送给红外分析模块&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.红外分析模块将分析结果上报到上位机系统，并保存到数据库&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="170" width="240" height="420" as="geometry" />
+          <mxGeometry x="220" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eiqtC8RxXbG8RJ6kN2Gq-9" value="数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="740" y="270" width="60" height="100" as="geometry" />
+          <mxGeometry x="670" y="270" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
