@@ -1,1 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T05:44:55.448Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" version="16.6.4" etag="iE0o2LR0K5PK_CGXjyC1" type="github"><diagram id="UuuZ4-HdQKZMtrYlUDtB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-18T06:02:22.632Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="qoMXssb_Pez_k9fXpEaX" version="16.6.4" type="github">
+  <diagram id="UuuZ4-HdQKZMtrYlUDtB" name="Page-1">
+    <mxGraphModel dx="1426" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fGFA6BrNCQIEQ8YfSRlI-3" target="fGFA6BrNCQIEQ8YfSRlI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-2" value="1.上报可见光巡检结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fGFA6BrNCQIEQ8YfSRlI-1">
+          <mxGeometry x="-0.1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-3" value="昌吉巡视主机" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGFA6BrNCQIEQ8YfSRlI-10" target="fGFA6BrNCQIEQ8YfSRlI-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-5" value="3.将预置位id，&lt;br&gt;部件id，终端设备id，&lt;br&gt;相机id，原始图片，&lt;br&gt;标定文件id等信息发&lt;br&gt;送给红外分析模块" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fGFA6BrNCQIEQ8YfSRlI-4">
+          <mxGeometry x="-0.0714" relative="1" as="geometry">
+            <mxPoint x="-80" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="fGFA6BrNCQIEQ8YfSRlI-10" target="fGFA6BrNCQIEQ8YfSRlI-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="305" />
+              <mxPoint x="360" y="270" />
+              <mxPoint x="590" y="270" />
+              <mxPoint x="590" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-7" value="2.获取当前设备的模拟量运行数据&lt;br&gt;保存到数据库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fGFA6BrNCQIEQ8YfSRlI-6">
+          <mxGeometry x="-0.0743" y="-1" relative="1" as="geometry">
+            <mxPoint x="-12" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fGFA6BrNCQIEQ8YfSRlI-10" target="fGFA6BrNCQIEQ8YfSRlI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-9" value="5.上位机系统将分析结果保存到数据库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fGFA6BrNCQIEQ8YfSRlI-8">
+          <mxGeometry x="-0.2967" y="1" relative="1" as="geometry">
+            <mxPoint x="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-10" value="上位机系统" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGFA6BrNCQIEQ8YfSRlI-13" target="fGFA6BrNCQIEQ8YfSRlI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-12" value="4.形变分析模块将分析&lt;br&gt;结果上报给上位机系统" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fGFA6BrNCQIEQ8YfSRlI-11">
+          <mxGeometry x="0.0286" relative="1" as="geometry">
+            <mxPoint x="60" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-13" value="形变分析模块" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-14" value="数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="670" y="270" width="60" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
