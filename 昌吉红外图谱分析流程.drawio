@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T05:36:30.042Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="V4EZQmBlec7TBfKegaWs" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T05:36:41.555Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="gEzqTQUN4H71gIYGEQJe" version="16.6.4" type="github">
   <diagram id="Ngma9uTH-kOSsA47BcDm" name="Page-1">
     <mxGraphModel dx="1426" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         </mxCell>
         <mxCell id="eiqtC8RxXbG8RJ6kN2Gq-15" value="4.红外分析模块将分析&lt;br&gt;结果上报给上位机系统" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eiqtC8RxXbG8RJ6kN2Gq-13">
           <mxGeometry x="0.0286" relative="1" as="geometry">
-            <mxPoint x="60" y="12" as="offset" />
+            <mxPoint x="60" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eiqtC8RxXbG8RJ6kN2Gq-6" value="红外分析模块" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
