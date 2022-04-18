@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T06:05:33.427Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="AsPQQ1RfJ7qE3DbTi1ki" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T06:06:57.927Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="0tgr9e5yiyhg4j_Zgbct" version="16.6.4" type="github">
   <diagram id="UuuZ4-HdQKZMtrYlUDtB" name="Page-1">
     <mxGraphModel dx="1426" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
         <mxCell id="fGFA6BrNCQIEQ8YfSRlI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGFA6BrNCQIEQ8YfSRlI-10" target="fGFA6BrNCQIEQ8YfSRlI-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-5" value="3.上位机对巡检结果进行&lt;br&gt;过滤，将预置位id，&lt;br&gt;部件id，终端设备id，&lt;br&gt;相机id，原始图片，&lt;br&gt;标定文件id，数据id等信息&lt;br&gt;发送给红外分析模块" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fGFA6BrNCQIEQ8YfSRlI-4">
+        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-5" value="3.上位机对巡检结果进行&lt;br&gt;过滤，将预置位id，&lt;br&gt;部件id，终端设备id，&lt;br&gt;相机id，原始图片，&lt;br&gt;标定文件id，数据id等信息&lt;br&gt;发送给形变分析模块" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fGFA6BrNCQIEQ8YfSRlI-4">
           <mxGeometry x="-0.0714" relative="1" as="geometry">
             <mxPoint x="-80" y="5" as="offset" />
           </mxGeometry>
