@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T06:20:37.373Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="DG1Uv9vOyZ66y_nunYPn" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T06:40:50.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="KSVF80lPTKwcsY-uMLfR" version="16.6.4" type="github">
   <diagram id="UuuZ4-HdQKZMtrYlUDtB" name="Page-1">
-    <mxGraphModel dx="1426" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,9 +18,9 @@
         <mxCell id="fGFA6BrNCQIEQ8YfSRlI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGFA6BrNCQIEQ8YfSRlI-10" target="fGFA6BrNCQIEQ8YfSRlI-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-5" value="3.上位机对巡检结果进行&lt;br&gt;过滤，将《&lt;font color=&quot;#ff3333&quot;&gt;巡视设备编码，&lt;br&gt;任务编码，巡视任务执行id，&lt;br&gt;预置位id，部件id，&lt;br&gt;终端设备id，&lt;br&gt;相机id，原始图片，&lt;br&gt;框的位置，标定文件id，&lt;br&gt;数据id&lt;/font&gt;》等信息&lt;br&gt;发送给形变分析模块" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fGFA6BrNCQIEQ8YfSRlI-4">
+        <mxCell id="fGFA6BrNCQIEQ8YfSRlI-5" value="3.上位机对巡检结果进行&lt;br&gt;过滤，将如下信息&lt;br&gt;发送给形变分析模块：&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;任务编码，&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;巡视任务执行id，&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;预置位id，&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;部件id，&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;终端设备id，&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;相机id，&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;原始图片，&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;框的位置，&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;标定文件id，&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;数据编码&lt;/div&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fGFA6BrNCQIEQ8YfSRlI-4">
           <mxGeometry x="-0.0714" relative="1" as="geometry">
-            <mxPoint x="-80" y="5" as="offset" />
+            <mxPoint x="-130" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fGFA6BrNCQIEQ8YfSRlI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="fGFA6BrNCQIEQ8YfSRlI-10" target="fGFA6BrNCQIEQ8YfSRlI-14">
