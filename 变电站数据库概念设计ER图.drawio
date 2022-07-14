@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T06:40:02.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="conx85eBS-2qcFLiXpaV" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T07:42:44.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cE6dtZNiSk6tzztm9jcR" version="18.0.2" type="github">
   <diagram id="TJLz1f65jL5uEaRMiWld" name="Page-1">
     <mxGraphModel dx="2253" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="su3u-CIVc6lrLzEyy7IQ-113" value="对象" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="210" width="100" height="40" as="geometry" />
+          <mxGeometry x="-770" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="su3u-CIVc6lrLzEyy7IQ-117" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="su3u-CIVc6lrLzEyy7IQ-114" target="su3u-CIVc6lrLzEyy7IQ-116">
           <mxGeometry relative="1" as="geometry" />
@@ -137,10 +137,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="su3u-CIVc6lrLzEyy7IQ-114" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-660" y="310" width="60" height="60" as="geometry" />
+          <mxGeometry x="-750" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="su3u-CIVc6lrLzEyy7IQ-126" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="su3u-CIVc6lrLzEyy7IQ-116" target="su3u-CIVc6lrLzEyy7IQ-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="su3u-CIVc6lrLzEyy7IQ-129" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="su3u-CIVc6lrLzEyy7IQ-126">
+          <mxGeometry x="0.1333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="su3u-CIVc6lrLzEyy7IQ-116" value="部件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="440" width="100" height="40" as="geometry" />
+          <mxGeometry x="-770" y="390" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="su3u-CIVc6lrLzEyy7IQ-128" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="su3u-CIVc6lrLzEyy7IQ-125" target="su3u-CIVc6lrLzEyy7IQ-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="su3u-CIVc6lrLzEyy7IQ-130" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="su3u-CIVc6lrLzEyy7IQ-128">
+          <mxGeometry y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="su3u-CIVc6lrLzEyy7IQ-125" value="对应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="su3u-CIVc6lrLzEyy7IQ-127" value="观测位" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="640" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
