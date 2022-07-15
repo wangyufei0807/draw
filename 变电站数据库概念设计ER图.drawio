@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T06:41:26.470Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="z9mY-KApcchSdkKSqkqm" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T06:42:21.842Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bVcV952rxN4vU-CmyADL" version="20.1.1" type="github">
   <diagram id="TJLz1f65jL5uEaRMiWld" name="Page-1">
     <mxGraphModel dx="2239" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -308,7 +308,7 @@
             <mxPoint x="230" y="1435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-3" value="task_history" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="shvKlPf7iVwfEgHjK1fd-3" value="task_history 任务执行记录表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1169" width="260" height="520" as="geometry" />
         </mxCell>
         <mxCell id="shvKlPf7iVwfEgHjK1fd-4" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-3">
@@ -522,7 +522,7 @@
         <mxCell id="shvKlPf7iVwfEgHjK1fd-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERone;startFill=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="shvKlPf7iVwfEgHjK1fd-13" target="shvKlPf7iVwfEgHjK1fd-146">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-13" value="point_history" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="shvKlPf7iVwfEgHjK1fd-13" value="point_history 部件巡检记录" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1740" width="290" height="430" as="geometry" />
         </mxCell>
         <mxCell id="shvKlPf7iVwfEgHjK1fd-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-13">
@@ -729,7 +729,7 @@
         <mxCell id="shvKlPf7iVwfEgHjK1fd-309" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERone;startFill=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="shvKlPf7iVwfEgHjK1fd-23" target="shvKlPf7iVwfEgHjK1fd-281">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-23" value="task" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="shvKlPf7iVwfEgHjK1fd-23" value="task 任务表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="1350" width="270" height="320" as="geometry" />
         </mxCell>
         <mxCell id="shvKlPf7iVwfEgHjK1fd-24" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-23">
@@ -1037,7 +1037,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-146" value="point_alarm_history" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="shvKlPf7iVwfEgHjK1fd-146" value="point_alarm_history 部件告警记录" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="1740" width="290" height="430" as="geometry" />
         </mxCell>
         <mxCell id="shvKlPf7iVwfEgHjK1fd-147" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-146">
