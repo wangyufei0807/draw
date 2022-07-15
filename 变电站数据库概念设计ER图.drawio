@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T06:06:49.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ZAxVF5UgouUY-8WMIY3l" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T06:08:30.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nHgUl1JLPsD8OY695-Jh" version="20.1.1" type="github">
   <diagram id="TJLz1f65jL5uEaRMiWld" name="Page-1">
     <mxGraphModel dx="2239" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -722,7 +722,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-160" y="1510" />
-              <mxPoint x="-160" y="2060" />
+              <mxPoint x="-160" y="1960" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1249,7 +1249,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="shvKlPf7iVwfEgHjK1fd-222" value="task_invalid 任务禁用周期配置" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="1870" width="250" height="320" as="geometry" />
+          <mxGeometry x="-460" y="1870" width="250" height="170" as="geometry" />
         </mxCell>
         <mxCell id="shvKlPf7iVwfEgHjK1fd-223" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-222">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -1272,7 +1272,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-228" value="name varchar(50) NOT NULL 任务名称" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-226">
+        <mxCell id="shvKlPf7iVwfEgHjK1fd-228" value="task_id int(11) NOT NULL 任务id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-226">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1285,7 +1285,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-231" value="type int(1) NOT NULL 巡视类型" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-229">
+        <mxCell id="shvKlPf7iVwfEgHjK1fd-231" value="start_time datetime 间隔开始时间" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-229">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1298,72 +1298,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-234" value="priority int(1) NOT NULL 优先级" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-232">
-          <mxGeometry x="30" width="220" height="30" as="geometry">
-            <mxRectangle width="220" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-235" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-222">
-          <mxGeometry y="150" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-236" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-235">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-237" value="device_level int(1) NOT NULL 设备层级" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-235">
-          <mxGeometry x="30" width="220" height="30" as="geometry">
-            <mxRectangle width="220" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-238" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-222">
-          <mxGeometry y="180" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-239" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-238">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-240" value="device_list text  NOT NULL 设备列表" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-238">
-          <mxGeometry x="30" width="220" height="30" as="geometry">
-            <mxRectangle width="220" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-241" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-222">
-          <mxGeometry y="210" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-242" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-241">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-243" value="isenable int(1) NOT NULL 是否可用" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-241">
-          <mxGeometry x="30" width="220" height="30" as="geometry">
-            <mxRectangle width="220" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-244" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-222">
-          <mxGeometry y="240" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-245" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-244">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-246" value="creator varchar(50) NOT NULL 编制人" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-244">
-          <mxGeometry x="30" width="220" height="30" as="geometry">
-            <mxRectangle width="220" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-247" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-222">
-          <mxGeometry y="270" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-248" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-247">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-249" value="create_time datatime NOT NULL 编制时间" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-247">
+        <mxCell id="shvKlPf7iVwfEgHjK1fd-234" value="end_time datetime 间隔结束时间" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="shvKlPf7iVwfEgHjK1fd-232">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
