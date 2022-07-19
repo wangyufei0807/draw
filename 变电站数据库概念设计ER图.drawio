@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T02:46:55.901Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="BQ2v9M7aiRE80BHuTDgG" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T02:52:30.718Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4-bOLcJ-amW1ktMidI6_" version="20.1.1" type="github">
   <diagram id="TJLz1f65jL5uEaRMiWld" name="Page-1">
     <mxGraphModel dx="3893" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="shvKlPf7iVwfEgHjK1fd-328" value="任务模块" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#FF9CB9;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="1070" width="1130" height="1140" as="geometry" />
+        </mxCell>
         <mxCell id="shvKlPf7iVwfEgHjK1fd-391" value="基础字典数据模块" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#FF9CB9;" parent="1" vertex="1">
           <mxGeometry x="780" y="1070" width="600" height="650" as="geometry" />
         </mxCell>
@@ -311,7 +314,7 @@
             <mxPoint x="230" y="1435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-3" value="task_history 任务执行记录表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="shvKlPf7iVwfEgHjK1fd-3" value="task_history 任务巡检记录表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="1169" width="260" height="520" as="geometry" />
         </mxCell>
         <mxCell id="shvKlPf7iVwfEgHjK1fd-4" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="shvKlPf7iVwfEgHjK1fd-3" vertex="1">
@@ -1337,9 +1340,6 @@
           <mxGeometry x="30" width="240" height="30" as="geometry">
             <mxRectangle width="240" height="30" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="shvKlPf7iVwfEgHjK1fd-328" value="任务模块" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#FF9CB9;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="1070" width="1130" height="1140" as="geometry" />
         </mxCell>
         <mxCell id="shvKlPf7iVwfEgHjK1fd-329" value="meter_type 表计类型" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="1120" width="180" height="100" as="geometry" />
