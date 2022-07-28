@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T10:28:48.666Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VsX21sJR7nBLPmn1x-_H" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T10:31:43.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="phZXL4UeuGZdrCgcX7Zt" version="20.2.0" type="github">
   <diagram id="w0403fBSO4ZVD5nSPQlh" name="第 1 页">
     <mxGraphModel dx="1412" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,6 +19,15 @@
         <mxCell id="2cQzLXGR86g6uBBES96R-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2cQzLXGR86g6uBBES96R-4" target="2cQzLXGR86g6uBBES96R-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2cQzLXGR86g6uBBES96R-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2cQzLXGR86g6uBBES96R-4" target="2cQzLXGR86g6uBBES96R-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2cQzLXGR86g6uBBES96R-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2cQzLXGR86g6uBBES96R-4" target="2cQzLXGR86g6uBBES96R-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2cQzLXGR86g6uBBES96R-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2cQzLXGR86g6uBBES96R-4" target="2cQzLXGR86g6uBBES96R-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2cQzLXGR86g6uBBES96R-4" value="配置任务执行策略" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="350" width="120" height="60" as="geometry" />
         </mxCell>
@@ -34,13 +43,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2cQzLXGR86g6uBBES96R-6" value="根据配置策略动态&lt;br&gt;生成任务执行记录" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2cQzLXGR86g6uBBES96R-8" value="推送任务状态&lt;br&gt;到web端" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2cQzLXGR86g6uBBES96R-10" value="写入测点告警记录" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2cQzLXGR86g6uBBES96R-13" value="定期执行策略" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="270" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2cQzLXGR86g6uBBES96R-15" value="周期执行策略" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2cQzLXGR86g6uBBES96R-17" value="间隔执行策略" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
