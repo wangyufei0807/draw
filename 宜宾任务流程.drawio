@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T10:33:02.529Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="W1ra0kA4F9UUASxeIyBp" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T10:34:44.619Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qOrrPZkQIwCVXFe_jQwG" version="20.2.0" type="github">
   <diagram id="w0403fBSO4ZVD5nSPQlh" name="第 1 页">
     <mxGraphModel dx="1412" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,10 +31,10 @@
         <mxCell id="2cQzLXGR86g6uBBES96R-4" value="配置任务执行策略" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2cQzLXGR86g6uBBES96R-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2cQzLXGR86g6uBBES96R-6" target="2cQzLXGR86g6uBBES96R-8">
+        <mxCell id="2cQzLXGR86g6uBBES96R-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2cQzLXGR86g6uBBES96R-10" target="2cQzLXGR86g6uBBES96R-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2cQzLXGR86g6uBBES96R-12" value="任务状态更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2cQzLXGR86g6uBBES96R-9">
+        <mxCell id="2cQzLXGR86g6uBBES96R-12" value="任务状态更新推送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2cQzLXGR86g6uBBES96R-9">
           <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -46,9 +46,9 @@
           <mxGeometry x="294" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2cQzLXGR86g6uBBES96R-8" value="推送任务状态&lt;br&gt;到web端" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2cQzLXGR86g6uBBES96R-10" value="写入测点告警记录" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="2cQzLXGR86g6uBBES96R-10" value="开始执行任务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2cQzLXGR86g6uBBES96R-13" value="定期执行策略" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
