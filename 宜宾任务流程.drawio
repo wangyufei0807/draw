@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T10:32:04.062Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_XPdE9Jmrqlq8UrM9DTM" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T10:33:02.529Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="W1ra0kA4F9UUASxeIyBp" version="20.2.0" type="github">
   <diagram id="w0403fBSO4ZVD5nSPQlh" name="第 1 页">
     <mxGraphModel dx="1412" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         <mxCell id="2cQzLXGR86g6uBBES96R-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2cQzLXGR86g6uBBES96R-6" target="2cQzLXGR86g6uBBES96R-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2cQzLXGR86g6uBBES96R-6" value="根据配置策略动态&lt;br&gt;生成任务执行记录" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="2cQzLXGR86g6uBBES96R-6" value="根据执行策略动态&lt;br&gt;生成任务执行记录" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2cQzLXGR86g6uBBES96R-8" value="推送任务状态&lt;br&gt;到web端" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
