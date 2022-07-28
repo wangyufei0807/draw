@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T05:37:54.049Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QOPthoDyU0pBtlwh4w7A" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T05:38:38.379Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VoJZQ_LX3rUSrlOLoilR" version="20.2.0" type="github">
   <diagram id="TJLz1f65jL5uEaRMiWld" name="Page-1">
     <mxGraphModel dx="3893" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4myJ8VP_PkkWFanXRw8N-1" value="权限模块" style="shape=umlFrame;whiteSpace=wrap;html=1;shadow=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="-790" y="2730" width="1431" height="1000" as="geometry" />
+          <mxGeometry x="-520" y="2350" width="1431" height="940" as="geometry" />
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-2" value="任务模块" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-520" y="1070" width="1130" height="1140" as="geometry" />
@@ -2100,7 +2100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-570" value="admin 管理员表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="-399" y="2920" width="230" height="521" as="geometry" />
+          <mxGeometry x="-129" y="2540" width="230" height="521" as="geometry" />
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-571" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="4myJ8VP_PkkWFanXRw8N-570" vertex="1">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
@@ -2311,7 +2311,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-610" value="role 角色表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="337" y="2785" width="210" height="135" as="geometry" />
+          <mxGeometry x="607" y="2405" width="210" height="135" as="geometry" />
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-611" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="4myJ8VP_PkkWFanXRw8N-610" vertex="1">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
@@ -2353,7 +2353,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-620" value="permission 权限表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="337" y="3250" width="210" height="220" as="geometry" />
+          <mxGeometry x="607" y="2841" width="210" height="220" as="geometry" />
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-621" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="4myJ8VP_PkkWFanXRw8N-620" vertex="1">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
@@ -2434,7 +2434,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-639" value="role_permission 角色权限关系表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="332" y="3010" width="220" height="139.5" as="geometry" />
+          <mxGeometry x="602" y="2630" width="220" height="139.5" as="geometry" />
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-640" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="4myJ8VP_PkkWFanXRw8N-639" vertex="1">
           <mxGeometry y="30" width="220" height="30" as="geometry" />
@@ -2476,7 +2476,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-649" value="admin_role 管理员角色关系表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="-49" y="2941" width="220" height="139.5" as="geometry" />
+          <mxGeometry x="221" y="2561" width="220" height="139.5" as="geometry" />
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-650" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="4myJ8VP_PkkWFanXRw8N-649" vertex="1">
           <mxGeometry y="30" width="220" height="30" as="geometry" />
@@ -2518,7 +2518,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-659" value="admin_permission 管理员权限关系表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="-49" y="3160" width="240" height="134" as="geometry" />
+          <mxGeometry x="221" y="2780" width="240" height="134" as="geometry" />
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-660" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="4myJ8VP_PkkWFanXRw8N-659" vertex="1">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
@@ -2561,46 +2561,46 @@
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-669" value="" style="fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="4myJ8VP_PkkWFanXRw8N-643" target="4myJ8VP_PkkWFanXRw8N-611" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="561" y="3080" as="sourcePoint" />
-            <mxPoint x="561" y="2850" as="targetPoint" />
+            <mxPoint x="831" y="2700" as="sourcePoint" />
+            <mxPoint x="831" y="2470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="591" y="3085" />
-              <mxPoint x="591" y="2830" />
+              <mxPoint x="861" y="2705" />
+              <mxPoint x="861" y="2450" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-670" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4myJ8VP_PkkWFanXRw8N-621" target="4myJ8VP_PkkWFanXRw8N-646" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="621" y="3280" as="sourcePoint" />
-            <mxPoint x="721" y="3180" as="targetPoint" />
+            <mxPoint x="891" y="2900" as="sourcePoint" />
+            <mxPoint x="991" y="2800" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="591" y="3295" />
-              <mxPoint x="591" y="3115" />
+              <mxPoint x="861" y="2915" />
+              <mxPoint x="861" y="2735" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-671" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4myJ8VP_PkkWFanXRw8N-653" target="4myJ8VP_PkkWFanXRw8N-571" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-149" y="3150" as="sourcePoint" />
-            <mxPoint x="-49" y="3050" as="targetPoint" />
+            <mxPoint x="121" y="2770" as="sourcePoint" />
+            <mxPoint x="221" y="2670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-672" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4myJ8VP_PkkWFanXRw8N-663" target="4myJ8VP_PkkWFanXRw8N-571" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-139" y="3220" as="sourcePoint" />
-            <mxPoint x="-39" y="3120" as="targetPoint" />
+            <mxPoint x="131" y="2840" as="sourcePoint" />
+            <mxPoint x="231" y="2740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-673" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4myJ8VP_PkkWFanXRw8N-656" target="4myJ8VP_PkkWFanXRw8N-611" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="211" y="3210" as="sourcePoint" />
-            <mxPoint x="311" y="3110" as="targetPoint" />
+            <mxPoint x="481" y="2830" as="sourcePoint" />
+            <mxPoint x="581" y="2730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-674" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4myJ8VP_PkkWFanXRw8N-666" target="4myJ8VP_PkkWFanXRw8N-621" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="71" y="3490" as="sourcePoint" />
-            <mxPoint x="171" y="3390" as="targetPoint" />
+            <mxPoint x="341" y="3110" as="sourcePoint" />
+            <mxPoint x="441" y="3010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4myJ8VP_PkkWFanXRw8N-675" value="cron 定时任务表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
@@ -2779,7 +2779,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G44LizESQl3tysBU13zY-26" value="dept 部门表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="2820.5" width="217" height="260" as="geometry" />
+          <mxGeometry x="-480" y="2440.5" width="217" height="260" as="geometry" />
         </mxCell>
         <mxCell id="G44LizESQl3tysBU13zY-27" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="G44LizESQl3tysBU13zY-26">
           <mxGeometry y="30" width="217" height="30" as="geometry" />
@@ -2874,12 +2874,12 @@
         </mxCell>
         <mxCell id="G44LizESQl3tysBU13zY-51" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="G44LizESQl3tysBU13zY-27" target="G44LizESQl3tysBU13zY-48">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-570" y="3370" as="sourcePoint" />
-            <mxPoint x="-470" y="3270" as="targetPoint" />
+            <mxPoint x="-300" y="2990" as="sourcePoint" />
+            <mxPoint x="-200" y="2890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G44LizESQl3tysBU13zY-52" value="admin_login_log 登录日志表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="3134" width="210" height="196" as="geometry" />
+          <mxGeometry x="-480" y="2754" width="210" height="196" as="geometry" />
         </mxCell>
         <mxCell id="G44LizESQl3tysBU13zY-53" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="G44LizESQl3tysBU13zY-52">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
@@ -2948,12 +2948,12 @@
         </mxCell>
         <mxCell id="G44LizESQl3tysBU13zY-68" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4myJ8VP_PkkWFanXRw8N-571" target="G44LizESQl3tysBU13zY-56">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-610" y="3500" as="sourcePoint" />
-            <mxPoint x="-510" y="3400" as="targetPoint" />
+            <mxPoint x="-340" y="3120" as="sourcePoint" />
+            <mxPoint x="-240" y="3020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G44LizESQl3tysBU13zY-69" value="admin_operation_log 操作日志表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="3390" width="210" height="220" as="geometry" />
+          <mxGeometry x="-480" y="3010" width="210" height="220" as="geometry" />
         </mxCell>
         <mxCell id="G44LizESQl3tysBU13zY-70" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="G44LizESQl3tysBU13zY-69">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
@@ -3035,8 +3035,8 @@
         </mxCell>
         <mxCell id="G44LizESQl3tysBU13zY-82" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4myJ8VP_PkkWFanXRw8N-571" target="G44LizESQl3tysBU13zY-73">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-440" y="3620" as="sourcePoint" />
-            <mxPoint x="-340" y="3520" as="targetPoint" />
+            <mxPoint x="-170" y="3240" as="sourcePoint" />
+            <mxPoint x="-70" y="3140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
