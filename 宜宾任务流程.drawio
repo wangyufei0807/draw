@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T01:44:28.141Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_EriB7LI75dSbqs2jC1B" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T01:48:41.113Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="I1BR6J5TlJKgCf8caBN1" version="20.2.2" type="github">
   <diagram id="w0403fBSO4ZVD5nSPQlh" name="第 1 页">
     <mxGraphModel dx="932" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         </mxCell>
         <mxCell id="IkSdyd2Y8k110zcRpa2T-9" value="设备巡检状态更新推送&lt;br&gt;websocket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IkSdyd2Y8k110zcRpa2T-6">
           <mxGeometry x="-0.25" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-8" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IkSdyd2Y8k110zcRpa2T-3" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;判断设备绑定测点值是否告警&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
