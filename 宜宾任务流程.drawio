@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T01:48:41.113Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="I1BR6J5TlJKgCf8caBN1" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T01:50:58.732Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XkxYWmg7Fq3druesYYCl" version="20.2.2" type="github">
   <diagram id="w0403fBSO4ZVD5nSPQlh" name="第 1 页">
     <mxGraphModel dx="932" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="2cQzLXGR86g6uBBES96R-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2cQzLXGR86g6uBBES96R-10" target="2cQzLXGR86g6uBBES96R-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2cQzLXGR86g6uBBES96R-12" value="任务状态更新推送&lt;br&gt;websocket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2cQzLXGR86g6uBBES96R-9" vertex="1" connectable="0">
+        <mxCell id="2cQzLXGR86g6uBBES96R-12" value="任务状态更新推送&lt;br&gt;（已执行，正在执行等）&lt;br&gt;websocket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2cQzLXGR86g6uBBES96R-9" vertex="1" connectable="0">
           <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -46,7 +46,7 @@
           <mxGeometry x="294" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2cQzLXGR86g6uBBES96R-8" value="web端" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkSdyd2Y8k110zcRpa2T-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2cQzLXGR86g6uBBES96R-10" target="IkSdyd2Y8k110zcRpa2T-3">
           <mxGeometry relative="1" as="geometry" />
@@ -77,9 +77,9 @@
         <mxCell id="IkSdyd2Y8k110zcRpa2T-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IkSdyd2Y8k110zcRpa2T-3" target="2cQzLXGR86g6uBBES96R-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IkSdyd2Y8k110zcRpa2T-9" value="设备巡检状态更新推送&lt;br&gt;websocket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IkSdyd2Y8k110zcRpa2T-6">
+        <mxCell id="IkSdyd2Y8k110zcRpa2T-9" value="设备巡检状态更新推送&lt;br&gt;（开始，结束）&lt;br&gt;websocket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IkSdyd2Y8k110zcRpa2T-6">
           <mxGeometry x="-0.25" y="1" relative="1" as="geometry">
-            <mxPoint x="-8" y="1" as="offset" />
+            <mxPoint x="-25" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IkSdyd2Y8k110zcRpa2T-3" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;判断设备绑定测点值是否告警&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
