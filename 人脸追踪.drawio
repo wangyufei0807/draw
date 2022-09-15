@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T08:36:16.414Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Fme9vjV-6aMb-ujZYn0w" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T08:38:34.164Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7qqHdAx-etAcH3inqXVf" version="20.3.0" type="github">
   <diagram id="38toCDtvO72y1MS8dI_N" name="第 1 页">
     <mxGraphModel dx="892" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -537,6 +537,12 @@
         </mxCell>
         <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-205" value="条件一:某一相机下，某一实时id对应的一定是同一个人" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="510" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-206" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="490" y="425" width="20" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-207" value="补点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="447.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
