@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T08:38:34.164Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7qqHdAx-etAcH3inqXVf" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T08:59:36.671Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="PXna8QRaJUJGrhV26xvg" version="20.3.0" type="github">
   <diagram id="38toCDtvO72y1MS8dI_N" name="第 1 页">
     <mxGraphModel dx="892" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -535,7 +535,7 @@
         <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-204" value="盲区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="282.7" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-205" value="条件一:某一相机下，某一实时id对应的一定是同一个人" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-205" value="条件一:一个相机下，同一实时id对应的是同一个人" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="510" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-206" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=90;" vertex="1" parent="1">
@@ -543,6 +543,42 @@
         </mxCell>
         <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-207" value="补点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="447.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-227" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="29.700000000000003" y="585" width="625" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-228" value="&lt;span style=&quot;text-align: left;&quot;&gt;优化一：一个相机下，同一实时id中如果有识别到人脸，则将相同实时id对应的人员信息更新为识别到人脸的人员信息。&lt;/span&gt;" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="1rM6C2h5TiVr_Z7WdG6Z-227">
+          <mxGeometry width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-229" value="相对准确" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="1rM6C2h5TiVr_Z7WdG6Z-227">
+          <mxGeometry x="450" y="4.5" width="143.75" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-230" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="30.000000000000004" y="710" width="625" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-231" value="&lt;span style=&quot;text-align: left;&quot;&gt;优化二：第一个相机中如果没有检测到人脸，则查询工单中关联的人员信息。&lt;/span&gt;" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="1rM6C2h5TiVr_Z7WdG6Z-230">
+          <mxGeometry width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-232" value="一般，可能出现进去的人员并一定是工单关联人员，这样整个点对应的人员信息都是错误的。" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="1rM6C2h5TiVr_Z7WdG6Z-230">
+          <mxGeometry x="450" y="4.5" width="143.75" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-233" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="30" y="840" width="625" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-234" value="&lt;span style=&quot;text-align: left;&quot;&gt;优化三：除第一个相机外，如果该相机下没有识别到人脸则查询相邻上一个相机的人员信息，如果有则赋值。&lt;/span&gt;" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="1rM6C2h5TiVr_Z7WdG6Z-233">
+          <mxGeometry width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-235" value="差" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="1rM6C2h5TiVr_Z7WdG6Z-233">
+          <mxGeometry x="450" y="4.5" width="143.75" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-236" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="30" y="970" width="625" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-237" value="&lt;span style=&quot;text-align: left;&quot;&gt;优化四：除第一个相机外，如果该相机下没有识别到人脸则查询相邻上一个相机的人员信息，如果有则赋值。&lt;/span&gt;" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="1rM6C2h5TiVr_Z7WdG6Z-236">
+          <mxGeometry width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1rM6C2h5TiVr_Z7WdG6Z-238" value="相对准确" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="1rM6C2h5TiVr_Z7WdG6Z-236">
+          <mxGeometry x="450" y="4.5" width="143.75" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
