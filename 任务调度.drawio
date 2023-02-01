@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T08:07:23.396Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="2R9Pz7f0IOB3Oq99XpUY" version="20.8.14" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T08:09:36.231Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="IckU0E6PK_anVypokWBf" version="20.8.14" type="github">
   <diagram name="第 1 页" id="kU9h5htd539q5a9aOrrk">
     <mxGraphModel dx="763" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,7 +163,7 @@
         <mxCell id="ZIfVyA6NT1Mt5uhVDrUK-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZIfVyA6NT1Mt5uhVDrUK-100" target="ZIfVyA6NT1Mt5uhVDrUK-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZIfVyA6NT1Mt5uhVDrUK-100" value="监听终端任务队列" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZIfVyA6NT1Mt5uhVDrUK-100" value="监听终端设备任务队列" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="1043" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIfVyA6NT1Mt5uhVDrUK-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZIfVyA6NT1Mt5uhVDrUK-102" target="ZIfVyA6NT1Mt5uhVDrUK-104">
