@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T10:12:29.703Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="bnRZyFXlUJtJGpBECNYW" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T10:14:21.606Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ohJxmmPdXEyMrpj5dw7J" version="21.2.9" type="github">
   <diagram name="第 1 页" id="KCsGPZrE0ysaE5nDXICY">
     <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,13 +16,13 @@
         <mxCell id="U29xZ2vQ6zGHfJtYrRsx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LxgkGNjxUcp--r8CzHm-2" target="3LxgkGNjxUcp--r8CzHm-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3LxgkGNjxUcp--r8CzHm-2" value="第二步：将地图和ept文件路径配置到数据库中" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="3LxgkGNjxUcp--r8CzHm-2" value="第二步：将地图和对应的ept文件路径配置到数据库中" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U29xZ2vQ6zGHfJtYrRsx-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LxgkGNjxUcp--r8CzHm-4" target="U29xZ2vQ6zGHfJtYrRsx-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3LxgkGNjxUcp--r8CzHm-4" value="第三步：web端使用potree加载ept文件" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="3LxgkGNjxUcp--r8CzHm-4" value="第三步：web端通过potree加载ept文件，显示点云界面" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U29xZ2vQ6zGHfJtYrRsx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U29xZ2vQ6zGHfJtYrRsx-1" target="U29xZ2vQ6zGHfJtYrRsx-3">
