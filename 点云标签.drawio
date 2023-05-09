@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T10:18:56.110Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="emtqjJ21CgwIS13Zd8_B" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T10:21:17.165Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="MxBssdKnHARTj-JOLNjg" version="21.2.9" type="github">
   <diagram name="第 1 页" id="KCsGPZrE0ysaE5nDXICY">
     <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         <mxCell id="U29xZ2vQ6zGHfJtYrRsx-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U29xZ2vQ6zGHfJtYrRsx-3" target="U29xZ2vQ6zGHfJtYrRsx-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U29xZ2vQ6zGHfJtYrRsx-3" value="第五步：配置点的标签属性" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="U29xZ2vQ6zGHfJtYrRsx-3" value="第五步：配置点的标签属性信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U29xZ2vQ6zGHfJtYrRsx-5" value="第六步：加载标签列表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
