@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T10:15:55.457Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="6y_zuUtOrgA93HglSxvl" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T10:16:19.895Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_fIPAIJgJEBJJj4MnkfH" version="21.2.9" type="github">
   <diagram name="第 1 页" id="KCsGPZrE0ysaE5nDXICY">
     <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="U29xZ2vQ6zGHfJtYrRsx-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LxgkGNjxUcp--r8CzHm-4" target="U29xZ2vQ6zGHfJtYrRsx-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U29xZ2vQ6zGHfJtYrRsx-8" value="web初始化时，加载一次已有标签列表" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3LxgkGNjxUcp--r8CzHm-4" target="U29xZ2vQ6zGHfJtYrRsx-5">
+        <mxCell id="U29xZ2vQ6zGHfJtYrRsx-8" value="初始化时，加载标签列表" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3LxgkGNjxUcp--r8CzHm-4" target="U29xZ2vQ6zGHfJtYrRsx-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="460" />
