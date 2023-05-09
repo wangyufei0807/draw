@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T10:21:53.563Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="5MmyH85Peji3e4tqfP8l" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T10:22:30.388Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="1E_H-1VcTvJSsOF6LFYk" version="21.2.9" type="github">
   <diagram name="第 1 页" id="KCsGPZrE0ysaE5nDXICY">
     <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,13 +36,13 @@
         <mxCell id="U29xZ2vQ6zGHfJtYrRsx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U29xZ2vQ6zGHfJtYrRsx-1" target="U29xZ2vQ6zGHfJtYrRsx-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U29xZ2vQ6zGHfJtYrRsx-1" value="第四步：选点" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="U29xZ2vQ6zGHfJtYrRsx-1" value="第四步：选点&lt;br&gt;获取点的空间坐标" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U29xZ2vQ6zGHfJtYrRsx-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U29xZ2vQ6zGHfJtYrRsx-3" target="U29xZ2vQ6zGHfJtYrRsx-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U29xZ2vQ6zGHfJtYrRsx-3" value="第五步：配置，修改点的标签属性信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="U29xZ2vQ6zGHfJtYrRsx-3" value="第五步：配置&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;修改点的标签属性信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U29xZ2vQ6zGHfJtYrRsx-5" value="第六步：加载标签列表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
