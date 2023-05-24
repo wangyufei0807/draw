@@ -1,32 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T07:12:40.350Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Nsvxu1noV1KbeJBZS4jD" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T07:35:11.754Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="IhQ_b2FBLTGF209Vgjxg" version="21.3.3" type="github">
   <diagram name="第 1 页" id="F1Z5Uu-Zv3KGeX4mfjju">
     <mxGraphModel dx="1434" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UqJceNbmgoIil49mMTQ1-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UqJceNbmgoIil49mMTQ1-1" target="UqJceNbmgoIil49mMTQ1-2">
+        <mxCell id="UqJceNbmgoIil49mMTQ1-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UqJceNbmgoIil49mMTQ1-1" target="UqJceNbmgoIil49mMTQ1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UqJceNbmgoIil49mMTQ1-6" value="第一步：先加载点云基础数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UqJceNbmgoIil49mMTQ1-4">
+        <mxCell id="UqJceNbmgoIil49mMTQ1-6" value="第一步：先加载点云基础数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UqJceNbmgoIil49mMTQ1-4" vertex="1" connectable="0">
           <mxGeometry x="-0.0699" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UqJceNbmgoIil49mMTQ1-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UqJceNbmgoIil49mMTQ1-1" target="UqJceNbmgoIil49mMTQ1-3">
+        <mxCell id="UqJceNbmgoIil49mMTQ1-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UqJceNbmgoIil49mMTQ1-1" target="UqJceNbmgoIil49mMTQ1-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UqJceNbmgoIil49mMTQ1-7" value="第二步：再请求对应的着色数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UqJceNbmgoIil49mMTQ1-5">
+        <mxCell id="UqJceNbmgoIil49mMTQ1-7" value="第二步：再请求对应的着色数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UqJceNbmgoIil49mMTQ1-5" vertex="1" connectable="0">
           <mxGeometry x="-0.0869" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UqJceNbmgoIil49mMTQ1-1" value="potree点云渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UqJceNbmgoIil49mMTQ1-1" value="potree点云渲染" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UqJceNbmgoIil49mMTQ1-2" value="点云基础文件服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UqJceNbmgoIil49mMTQ1-2" value="点云基础文件服务器&lt;br&gt;ept格式点云文件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UqJceNbmgoIil49mMTQ1-3" value="点云着色数据&lt;br&gt;Hbase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UqJceNbmgoIil49mMTQ1-3" value="点云着色数据&lt;br&gt;Hbase" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
